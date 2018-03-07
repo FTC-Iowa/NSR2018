@@ -1,0 +1,43 @@
+----- Log Started at 21:39:40:026 -----
+21:39:40:025 FINEST	StringBundle.SetLocal	Setting Bundle Locale to:US
+21:39:40:031 INFO	FTCLogger.getInstance	Starting Log - FTCScoring Version: 1.5
+21:39:40:297 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/vens/Documents/NSR-Repo-2018/FTCScoring.jar!/com/usfirst/ftc/graphics/FTClogo.png
+21:39:40:371 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/vens/Documents/NSR-Repo-2018/FTCScoring.jar!/com/usfirst/ftc/graphics/gamelogo.png
+21:39:40:738 FINEST	StringBundle.SetLocal	Setting Bundle Locale to:US
+21:39:40:746 INFO	Startup Screen.<init>	Startup screen loaded
+21:39:42:084 FINEST	Startup Screen.Start Scoring System Action	Starting Scoring Application
+21:39:42:096 FINEST	FTCScoringApp.Main	Starting FTCScoringApp
+21:39:42:117 INFO	MatchController.read	File not found
+21:39:42:142 FINEST	FTCScoringApp.createDivision	Creating Division
+21:39:42:144 FINEST	DivisionController.read	Reading event name from file
+21:39:42:144 FINEST	DivisionController.read	Reading event type from file
+21:39:42:144 FINEST	DivisionController.read	multiple division flag from file
+21:39:42:145 INFO	DivisionController.read	Divisions successfully read, 1 read from file
+21:39:42:206 INFO	SponsorController.read	File not found
+21:39:42:210 INFO	TeamController.read	Teams successfully read, 72 read from file
+21:39:42:212 INFO	AllianceController.read	File not found
+21:39:42:217 INFO	AwardController.read	Awards successfully read, 12 read from file
+21:39:42:219 FINEST	ReportGenerator.<init>	creating report generator
+21:39:42:611 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+21:39:42:620 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+21:39:42:625 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+21:39:42:636 FINEST	ReportWebServer.initialize	Creating Web server
+21:39:42:659 STDERR	log4j:WARN No appenders could be found for logger (org.eclipse.jetty.util.log).
+21:39:42:660 STDERR	log4j:WARN Please initialize the log4j system properly.
+21:39:42:803 STDERR	org.eclipse.jetty.server.Server@56b8e813 STOPPED
+ +-ServletContextHandler@19f76728@19f76728/,null started
+    +-SessionHandler@1dd07e5b started
+       +-ServletHandler@72698704 started
+          +-[/*]=>com.usfirst.ftc.reporting.ReportServlet-1894410251{}
+
+21:39:42:803 INFO	DisplayPanel.startMessageManager	Starting message interface to displays
+21:39:42:807 FINEST	MessageManager.<init>	Reading Key from file: key.txt
+21:39:42:807 INFO	MessageManager.<init>	Retrieved from file key=-25388320,-1062731426
+21:39:42:848 FINEST	MessageManager.initSocket	Found and configuring Interface: Qualcomm Atheros QCA61x4A Wireless Network Adapter, IP=192.168.1.94, DESKTOP-LTL8MNE
+21:39:44:743 FINEST	StringBundle.getString	Key:TeamPanel.toolTip does not exist
+21:39:44:744 FINEST	StringBundle.getString	Key:numberLabel.text does not exist
+21:42:05:729 FINEST	FTCScoringApp.shutdown	Shutting down the Scoring System
+21:42:05:783 INFO	DisplayPanel.stopMessageManager	Stopping message interface to displays
+21:42:05:783 FINEST	FTCProperties.store	Saving Properties File
+21:42:05:786 FINEST	DisplayPanel.<Shutdown Thread>	Shutting down display Related Threads
+----- Log Terminated at 21:42:05:787 -----
