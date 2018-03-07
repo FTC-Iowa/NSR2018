@@ -1,7 +1,7 @@
 {
 	"event": "nsr",
 	"divisions": [
-		"tinker"
+		"ortberg"
 	],
 	"server": "https://firstinspiresiowa.firebaseapp.com",
 	"passphrase": "x"
