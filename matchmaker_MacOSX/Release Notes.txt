@@ -1,0 +1,106 @@
+MatchMaker 1.0.5
+================
+
+May 21, 2009
+
+Copyright
+---------
+
+MatchMaker by Tom and Cathy Saxton
+(c) 2007-2008, Idle Loop Software Design, LLC
+All rights reserved.
+
+Changes
+-------
+
+MatchMaker
+
+	- add help text showing how to redirect output to a text file
+
+MatchRater
+
+	- fix bug when parsing -s schedule for a 2x2 event
+
+Known Issues
+------------
+
+	none
+
+Further Info
+------------
+
+	http://www.idleloop.com/matchmaker/
+
+
+
+MatchMaker 1.0.4
+================
+
+February 9, 2009
+
+Copyright
+---------
+
+MatchMaker by Tom and Cathy Saxton
+(c) 2007-2008, Idle Loop Software Design, LLC
+All rights reserved.
+
+Changes
+-------
+
+MatchMaker
+
+	- new option to relax min match separation for small off-season events
+	- better error message when -u X can't be satisfied
+	- always return at least 1 second for time estimate
+
+MatchRater
+
+	- only the version number changed
+
+Known Issues
+------------
+
+	none
+
+Further Info
+------------
+
+	http://www.idleloop.com/matchmaker/
+
+
+MatchMaker 1.0.3
+================
+
+December 31, 2008
+
+Copyright
+---------
+
+MatchMaker by Tom and Cathy Saxton
+(c) 2007-2008, Idle Loop Software Design, LLC
+All rights reserved.
+
+Changes
+-------
+
+MatchMaker
+
+	- new method for seeding the match generation should reduce clumping
+	- tighter limits imposed on minimum match separation
+	- better default minimum match separation, esp. for larger tournaments
+
+MatchRater
+
+	- new option to read in "sparse" format schedules
+	- new option to read multiple schedules and dump out pairing frequency table
+
+Known Issues
+------------
+
+	none
+
+Further Info
+------------
+
+	http://www.idleloop.com/matchmaker/

@@ -1,0 +1,8 @@
+{
+	"event": "nsr",
+	"divisions": [
+		"tinker"
+	],
+	"server": "https://firstinspiresiowa.firebaseapp.com",
+	"passphrase": "x"
+}
