@@ -1,0 +1,116 @@
+----- Log Started at 21:27:53:528 -----
+21:27:53:527 FINEST	StringBundle.SetLocal	Setting Bundle Locale to:US
+21:27:53:535 INFO	FTCLogger.getInstance	Starting Log - FTCScoring Version: 1.5
+21:27:53:852 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/vens/Documents/NSR-Repo-2018/FTCScoring.jar!/com/usfirst/ftc/graphics/FTClogo.png
+21:27:53:924 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/vens/Documents/NSR-Repo-2018/FTCScoring.jar!/com/usfirst/ftc/graphics/gamelogo.png
+21:27:54:273 FINEST	StringBundle.SetLocal	Setting Bundle Locale to:US
+21:27:54:273 INFO	Startup Screen.<init>	Startup screen loaded
+21:27:56:815 FINEST	Startup Screen.Start Scoring System Action	Starting Scoring Application
+21:27:56:839 FINEST	FTCScoringApp.Main	Starting FTCScoringApp
+21:27:56:862 INFO	MatchController.read	File not found
+21:27:56:880 FINEST	FTCScoringApp.createDivision	Creating Division
+21:27:56:881 INFO	DivisionController.read	File not found
+21:27:56:882 FINEST	FTCScoringApp.createDivisions	Starting the division entry dialog box
+21:28:22:394 INFO	FTCScoringApp.createDivisions	Divisions configured
+21:28:22:398 INFO	DivisionController.save	Saved Division information to divisions.txt
+21:28:22:449 INFO	SponsorController.read	File not found
+21:28:22:450 INFO	TeamController.read	File not found
+21:28:22:453 INFO	AllianceController.read	File not found
+21:28:22:454 INFO	AwardController.read	File not found, creating default awards
+21:28:22:456 INFO	AwardController.save	Saved Award information
+21:28:22:459 FINEST	ReportGenerator.<init>	creating report generator
+21:28:22:460 FINEST	ReportGenerator.<init>	Creating Reporting Directory
+21:28:22:843 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+21:28:22:858 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+21:28:22:869 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+21:28:22:880 FINEST	ReportWebServer.initialize	Creating Web server
+21:28:22:923 STDERR	log4j:WARN No appenders could be found for logger (org.eclipse.jetty.util.log).
+21:28:22:923 STDERR	log4j:WARN Please initialize the log4j system properly.
+21:28:22:993 STDERR	org.eclipse.jetty.server.Server@590a4706 STOPPED
+ +-ServletContextHandler@30a26367@30a26367/,null started
+    +-SessionHandler@594a158f started
+       +-ServletHandler@2d56873f started
+          +-[/*]=>com.usfirst.ftc.reporting.ReportServlet-206101333{}
+
+21:28:22:994 INFO	DisplayPanel.startMessageManager	Starting message interface to displays
+21:28:23:002 FINEST	MessageManager.<init>	Reading Key from file: key.txt
+21:28:23:008 INFO	MessageManager.<init>	Generated new Key=-25120070,-1062731426
+21:28:23:077 FINEST	MessageManager.initSocket	Found and configuring Interface: Qualcomm Atheros QCA61x4A Wireless Network Adapter, IP=192.168.1.94, DESKTOP-LTL8MNE
+21:28:24:417 FINEST	StringBundle.getString	Key:TeamPanel.toolTip does not exist
+21:28:24:418 FINEST	StringBundle.getString	Key:numberLabel.text does not exist
+21:28:36:312 FINEST	TeamController.ImportTeamsFromExcel	Team file contains 73 rows
+21:28:36:312 FINEST	TeamController.ImportTeamsFromExcel	Row 1 contains 7 columns
+21:28:36:318 FINEST	TeamController.ImportTeamsFromExcel	Row 2 contains 7 columns
+21:28:36:318 FINEST	TeamController.ImportTeamsFromExcel	Row 3 contains 7 columns
+21:28:36:319 FINEST	TeamController.ImportTeamsFromExcel	Row 4 contains 7 columns
+21:28:36:319 FINEST	TeamController.ImportTeamsFromExcel	Row 5 contains 7 columns
+21:28:36:319 FINEST	TeamController.ImportTeamsFromExcel	Row 6 contains 7 columns
+21:28:36:320 FINEST	TeamController.ImportTeamsFromExcel	Row 7 contains 7 columns
+21:28:36:320 FINEST	TeamController.ImportTeamsFromExcel	Row 8 contains 7 columns
+21:28:36:321 FINEST	TeamController.ImportTeamsFromExcel	Row 9 contains 7 columns
+21:28:36:322 FINEST	TeamController.ImportTeamsFromExcel	Row 10 contains 7 columns
+21:28:36:322 FINEST	TeamController.ImportTeamsFromExcel	Row 11 contains 7 columns
+21:28:36:323 FINEST	TeamController.ImportTeamsFromExcel	Row 12 contains 7 columns
+21:28:36:323 FINEST	TeamController.ImportTeamsFromExcel	Row 13 contains 7 columns
+21:28:36:324 FINEST	TeamController.ImportTeamsFromExcel	Row 14 contains 7 columns
+21:28:36:324 FINEST	TeamController.ImportTeamsFromExcel	Row 15 contains 7 columns
+21:28:36:324 FINEST	TeamController.ImportTeamsFromExcel	Row 16 contains 7 columns
+21:28:36:325 FINEST	TeamController.ImportTeamsFromExcel	Row 17 contains 7 columns
+21:28:36:325 FINEST	TeamController.ImportTeamsFromExcel	Row 18 contains 7 columns
+21:28:36:326 FINEST	TeamController.ImportTeamsFromExcel	Row 19 contains 7 columns
+21:28:36:326 FINEST	TeamController.ImportTeamsFromExcel	Row 20 contains 7 columns
+21:28:36:326 FINEST	TeamController.ImportTeamsFromExcel	Row 21 contains 7 columns
+21:28:36:327 FINEST	TeamController.ImportTeamsFromExcel	Row 22 contains 7 columns
+21:28:36:327 FINEST	TeamController.ImportTeamsFromExcel	Row 23 contains 7 columns
+21:28:36:327 FINEST	TeamController.ImportTeamsFromExcel	Row 24 contains 7 columns
+21:28:36:328 FINEST	TeamController.ImportTeamsFromExcel	Row 25 contains 7 columns
+21:28:36:328 FINEST	TeamController.ImportTeamsFromExcel	Row 26 contains 7 columns
+21:28:36:328 FINEST	TeamController.ImportTeamsFromExcel	Row 27 contains 7 columns
+21:28:36:329 FINEST	TeamController.ImportTeamsFromExcel	Row 28 contains 7 columns
+21:28:36:329 FINEST	TeamController.ImportTeamsFromExcel	Row 29 contains 7 columns
+21:28:36:329 FINEST	TeamController.ImportTeamsFromExcel	Row 30 contains 7 columns
+21:28:36:330 FINEST	TeamController.ImportTeamsFromExcel	Row 31 contains 7 columns
+21:28:36:330 FINEST	TeamController.ImportTeamsFromExcel	Row 32 contains 7 columns
+21:28:36:330 FINEST	TeamController.ImportTeamsFromExcel	Row 33 contains 7 columns
+21:28:36:331 FINEST	TeamController.ImportTeamsFromExcel	Row 34 contains 7 columns
+21:28:36:331 FINEST	TeamController.ImportTeamsFromExcel	Row 35 contains 7 columns
+21:28:36:331 FINEST	TeamController.ImportTeamsFromExcel	Row 36 contains 7 columns
+21:28:36:332 FINEST	TeamController.ImportTeamsFromExcel	Row 37 contains 7 columns
+21:28:36:332 FINEST	TeamController.ImportTeamsFromExcel	Row 38 contains 7 columns
+21:28:36:332 FINEST	TeamController.ImportTeamsFromExcel	Row 39 contains 7 columns
+21:28:36:333 FINEST	TeamController.ImportTeamsFromExcel	Row 40 contains 7 columns
+21:28:36:333 FINEST	TeamController.ImportTeamsFromExcel	Row 41 contains 7 columns
+21:28:36:333 FINEST	TeamController.ImportTeamsFromExcel	Row 42 contains 7 columns
+21:28:36:334 FINEST	TeamController.ImportTeamsFromExcel	Row 43 contains 7 columns
+21:28:36:334 FINEST	TeamController.ImportTeamsFromExcel	Row 44 contains 7 columns
+21:28:36:334 FINEST	TeamController.ImportTeamsFromExcel	Row 45 contains 7 columns
+21:28:36:334 FINEST	TeamController.ImportTeamsFromExcel	Row 46 contains 7 columns
+21:28:36:335 FINEST	TeamController.ImportTeamsFromExcel	Row 47 contains 7 columns
+21:28:36:335 FINEST	TeamController.ImportTeamsFromExcel	Row 48 contains 7 columns
+21:28:36:335 FINEST	TeamController.ImportTeamsFromExcel	Row 49 contains 7 columns
+21:28:36:336 FINEST	TeamController.ImportTeamsFromExcel	Row 50 contains 7 columns
+21:28:36:336 FINEST	TeamController.ImportTeamsFromExcel	Row 51 contains 7 columns
+21:28:36:336 FINEST	TeamController.ImportTeamsFromExcel	Row 52 contains 7 columns
+21:28:36:337 FINEST	TeamController.ImportTeamsFromExcel	Row 53 contains 7 columns
+21:28:36:337 FINEST	TeamController.ImportTeamsFromExcel	Row 54 contains 7 columns
+21:28:36:337 FINEST	TeamController.ImportTeamsFromExcel	Row 55 contains 7 columns
+21:28:36:337 FINEST	TeamController.ImportTeamsFromExcel	Row 56 contains 7 columns
+21:28:36:338 FINEST	TeamController.ImportTeamsFromExcel	Row 57 contains 7 columns
+21:28:36:338 FINEST	TeamController.ImportTeamsFromExcel	Row 58 contains 7 columns
+21:28:36:338 FINEST	TeamController.ImportTeamsFromExcel	Row 59 contains 7 columns
+21:28:36:338 FINEST	TeamController.ImportTeamsFromExcel	Row 60 contains 7 columns
+21:28:36:339 FINEST	TeamController.ImportTeamsFromExcel	Row 61 contains 7 columns
+21:28:36:339 FINEST	TeamController.ImportTeamsFromExcel	Row 62 contains 7 columns
+21:28:36:339 FINEST	TeamController.ImportTeamsFromExcel	Row 63 contains 7 columns
+21:28:36:340 FINEST	TeamController.ImportTeamsFromExcel	Row 64 contains 7 columns
+21:28:36:340 FINEST	TeamController.ImportTeamsFromExcel	Row 65 contains 7 columns
+21:28:36:340 FINEST	TeamController.ImportTeamsFromExcel	Row 66 contains 7 columns
+21:28:36:340 FINEST	TeamController.ImportTeamsFromExcel	Row 67 contains 7 columns
+21:28:36:341 FINEST	TeamController.ImportTeamsFromExcel	Row 68 contains 7 columns
+21:28:36:341 FINEST	TeamController.ImportTeamsFromExcel	Row 69 contains 7 columns
+21:28:36:341 FINEST	TeamController.ImportTeamsFromExcel	Row 70 contains 7 columns
+21:28:36:342 FINEST	TeamController.ImportTeamsFromExcel	Row 71 contains 7 columns
+21:28:36:342 FINEST	TeamController.ImportTeamsFromExcel	Row 72 contains 7 columns
+21:28:36:348 INFO	TeamController.save	Saved team information
+21:28:49:824 FINEST	Startup Screen.Exit Action Listener	Exiting Application
+----- Log Terminated at 21:28:49:825 -----
