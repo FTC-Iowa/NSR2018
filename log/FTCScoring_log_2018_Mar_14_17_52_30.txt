@@ -1,0 +1,57 @@
+----- Log Started at 17:52:30:500 -----
+17:52:30:500 FINEST	StringBundle.SetLocal	Setting Bundle Locale to:US
+17:52:30:500 INFO	FTCLogger.getInstance	Starting Log - FTCScoring Version: 1.5
+17:52:30:750 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/NSR2018/FTCScoring.jar!/com/usfirst/ftc/graphics/FTClogo.png
+17:52:30:875 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/NSR2018/FTCScoring.jar!/com/usfirst/ftc/graphics/gamelogo.png
+17:52:31:514 FINEST	StringBundle.SetLocal	Setting Bundle Locale to:US
+17:52:31:514 INFO	Startup Screen.<init>	Startup screen loaded
+17:52:39:346 FINEST	Startup Screen.Start Scoring System Action	Starting Scoring Application
+17:52:39:408 FINEST	FTCScoringApp.Main	Starting FTCScoringApp
+17:52:39:439 INFO	MatchController.read	File not found
+17:52:39:455 FINEST	FTCScoringApp.createDivision	Creating Division
+17:52:39:502 FINEST	DivisionController.read	Reading event name from file
+17:52:39:502 FINEST	DivisionController.read	Reading event type from file
+17:52:39:502 FINEST	DivisionController.read	multiple division flag from file
+17:52:39:502 INFO	DivisionController.read	Divisions successfully read, 1 read from file
+17:52:39:658 INFO	SponsorController.read	File not found
+17:52:39:658 INFO	TeamController.read	Teams successfully read, 72 read from file
+17:52:39:673 INFO	AllianceController.read	File not found
+17:52:39:704 INFO	AwardController.read	Awards successfully read, 12 read from file
+17:52:39:704 FINEST	ReportGenerator.<init>	creating report generator
+17:52:40:375 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+17:52:40:391 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+17:52:40:406 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+17:52:40:453 FINEST	ReportWebServer.initialize	Creating Web server
+17:52:40:531 STDERR	log4j:WARN No appenders could be found for logger (org.eclipse.jetty.util.log).
+17:52:40:531 STDERR	log4j:WARN Please initialize the log4j system properly.
+17:52:40:828 STDERR	org.eclipse.jetty.server.Server@10844e7 STOPPED
+ +-ServletContextHandler@99272f@99272f/,null started
+    +-SessionHandler@1d2523b started
+       +-ServletHandler@50287 started
+          +-[/*]=>com.usfirst.ftc.reporting.ReportServlet-26105429{}
+
+17:52:40:828 INFO	DisplayPanel.startMessageManager	Starting message interface to displays
+17:52:40:843 FINEST	MessageManager.<init>	Reading Key from file: key.txt
+17:52:40:843 INFO	MessageManager.<init>	Retrieved from file key=-25120070,-1062731426
+17:52:40:952 FINEST	MessageManager.initSocket	Found and configuring Interface: Qualcomm Atheros QCA9565 802.11b/g/n WiFi Adapter, IP=10.10.38.3, FTC_IOWA_1
+17:52:41:186 FINEST	MessageManager.initSocket	Found and configuring Interface: Realtek PCIe GBE Family Controller, IP=192.168.1.11, FTC_IOWA_1
+17:52:41:467 FINEST	MessageManager.initSocket	Found and configuring Interface: VirtualBox Host-Only Ethernet Adapter, IP=192.168.56.1, FTC_IOWA_1
+17:58:21:386 FINEST	StringBundle.getString	Key:TeamPanel.toolTip does not exist
+17:58:21:386 FINEST	StringBundle.getString	Key:numberLabel.text does not exist
+17:58:55:280 INFO	TeamController.save	Saved team information
+17:58:58:792 INFO	TeamController.save	Saved team information
+17:59:57:888 INFO	TeamController.save	Saved team information
+18:00:15:898 FINEST	StringBundle.getString	Key:TeamPanel.toolTip does not exist
+18:00:15:898 FINEST	StringBundle.getString	Key:numberLabel.text does not exist
+18:00:37:078 INFO	TeamController.save	Saved team information
+18:01:01:405 INFO	TeamController.save	Saved team information
+18:09:10:685 INFO	ReportGenerator.generateTeaminformationReport	Generating team information report
+18:09:10:701 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
+18:10:07:097 FINEST	StringBundle.getString	Key:TeamPanel.toolTip does not exist
+18:10:07:097 FINEST	StringBundle.getString	Key:numberLabel.text does not exist
+20:34:23:179 FINEST	FTCScoringApp.shutdown	Shutting down the Scoring System
+20:34:23:273 INFO	DisplayPanel.stopMessageManager	Stopping message interface to displays
+20:34:23:273 FINEST	FTCProperties.store	Saving Properties File
+20:34:23:273 FINEST	DisplayPanel.<Shutdown Thread>	Shutting down display Related Threads
+20:34:23:273 INFO	MessageManager.<Shutdown hook>	Aborting Thread
+----- Log Terminated at 20:34:23:273 -----
