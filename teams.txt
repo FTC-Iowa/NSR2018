@@ -33,7 +33,7 @@
 1|12549|Robo Rebels|Larson Middle School|Troy|Michigan| |false|true|0
 1|12682|The Golden Ratio|The Golden Ratio|Cary|Illinois| |false|true|0
 1|12835|Pixelated|GEARS, Inc.|Granger|Indiana| |false|true|0
-1|13178|Roncalli Robo?Cavs|Roncalli Catholic High School|Aberdeen|South Dakota| |false|true|0
+1|13178|Roncalli Robo-Cavs|Roncalli Catholic High School|Aberdeen|South Dakota| |false|true|0
 2|4177|Finger Tightans|Highland High School|Riverside|Iowa| |false|true|0
 2|5037|got robot?|got robot?|Elgin|Illinois| |false|true|0
 2|5386|Fabricators|Freeland Middle/High School|Freeland|Michigan| |false|true|0
@@ -49,13 +49,13 @@
 2|7351|Dynamic Signals|Community Team (Sponsored by UL)|Gurnee|Illinois| |false|true|0
 2|8393|The Giant Diencephalic BrainSTEM Robotics Team|BrainSTEM Learning|Baden|Pennsylvania| |false|true|0
 2|8579|Classical Engineers|Bedford Junior High School|Temperance|Michigan| |false|true|0
-2|8581|Ædificatores|KSS Robotics|Kent|Ohio| |false|true|0
+2|8581|Aedificatores|KSS Robotics|Kent|Ohio| |false|true|0
 2|8680|Kraken Pinion|Homestead High School|Mequon|Wisconsin| |false|true|0
 2|8686|Height Differential|Neighborhood Team|Shoreview|Minnesota| |false|true|0
 2|9052|Recharged Orange|PEACE Home School Group|Pella|Iowa| |false|true|0
 2|9473|Crocobots|Center?Stanton High School|Center|North Dakota| |false|true|0
 2|9862|CTRL+ALT+DESTROY|Griffith High School|Griffith|Indiana| |false|true|0
-2|10091|N.Y.A.N. Robotics ? Not Your Average Nerds|NYAN|Mundelein|Illinois| |false|true|0
+2|10091|N.Y.A.N. Robotics - Not Your Average Nerds|NYAN|Mundelein|Illinois| |false|true|0
 2|10237|US Robotics|University School|Cleveland|Ohio| |false|true|0
 2|10255|RoboDux|Creekside Middle School|Zeeland|Michigan| |false|true|0
 2|10273|Cat in the Hat Comes Back|Sherburne Country 4H|Otsego|Minnesota| |false|true|0
@@ -66,7 +66,7 @@
 2|11691|Scripps Dragons|Scripps Middle School|Lake Orion|Michigan| |false|true|0
 2|12783|RoboWarriors|Norwalk RoboWarriors|Norwalk|Iowa| |false|true|0
 2|13034|Whitefield Rocks Robotics|Whitefield Academy|Louisville|Kentucky| |false|true|0
-2|13193|Cary ? Grove High School Robotics Club|Cary Grove High School|Cary|Illinois| |false|true|0
+2|13193|Robotics Club|Cary Grove High School|Cary|Illinois| |false|true|0
 2|13206|Wave Droids|Waverly Shell?Rock High School|Waverly|Iowa| |false|true|0
 2|13222|Green Mustaches|Hillside Middle School|Northville|Michigan| |false|true|0
 2|13917|Hillside Robotics|Hillside Middle School|Kalamazoo|Michigan| |false|true|0
