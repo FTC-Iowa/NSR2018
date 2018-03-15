@@ -1,0 +1,147 @@
+----- Log Started at 08:45:50:861 -----
+08:45:50:861 FINEST	StringBundle.SetLocal	Setting Bundle Locale to:US
+08:45:50:876 INFO	FTCLogger.getInstance	Starting Log - FTCScoring Version: 1.5
+08:45:51:141 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/NSR2018/FTCScoring.jar!/com/usfirst/ftc/graphics/FTClogo.png
+08:45:51:204 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/NSR2018/FTCScoring.jar!/com/usfirst/ftc/graphics/gamelogo.png
+08:45:51:703 FINEST	StringBundle.SetLocal	Setting Bundle Locale to:US
+08:45:51:703 INFO	Startup Screen.<init>	Startup screen loaded
+08:45:53:996 FINEST	Startup Screen.Start Scoring System Action	Starting Scoring Application
+08:45:53:996 FINEST	FTCScoringApp.Main	Starting FTCScoringApp
+08:45:54:059 INFO	MatchController.read	File not found
+08:45:54:074 FINEST	FTCScoringApp.createDivision	Creating Division
+08:45:54:074 FINEST	DivisionController.read	Reading event name from file
+08:45:54:074 FINEST	DivisionController.read	Reading event type from file
+08:45:54:074 FINEST	DivisionController.read	multiple division flag from file
+08:45:54:074 INFO	DivisionController.read	Divisions successfully read, 1 read from file
+08:45:54:200 INFO	SponsorController.read	File not found
+08:45:54:200 INFO	TeamController.read	Teams successfully read, 72 read from file
+08:45:54:200 INFO	AllianceController.read	File not found
+08:45:54:216 INFO	AwardController.read	Awards successfully read, 12 read from file
+08:45:54:216 FINEST	ReportGenerator.<init>	creating report generator
+08:45:54:980 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+08:45:54:996 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+08:45:55:011 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+08:45:55:042 FINEST	ReportWebServer.initialize	Creating Web server
+08:45:55:136 STDERR	log4j:WARN No appenders could be found for logger (org.eclipse.jetty.util.log).
+08:45:55:136 STDERR	log4j:WARN Please initialize the log4j system properly.
+08:45:55:401 STDERR	org.eclipse.jetty.server.Server@1e5f8ea STOPPED
+ +-ServletContextHandler@1b294e0@1b294e0/,null started
+    +-SessionHandler@1aa5442 started
+       +-ServletHandler@63939d started
+          +-[/*]=>com.usfirst.ftc.reporting.ReportServlet-7620413{}
+
+08:45:55:401 INFO	DisplayPanel.startMessageManager	Starting message interface to displays
+08:45:55:432 FINEST	MessageManager.<init>	Reading Key from file: key.txt
+08:45:55:432 INFO	MessageManager.<init>	Retrieved from file key=-25120070,-1062731426
+08:45:55:542 FINEST	MessageManager.initSocket	Found and configuring Interface: Qualcomm Atheros QCA9565 802.11b/g/n WiFi Adapter, IP=10.10.38.3, FTC_IOWA_1
+08:45:55:760 FINEST	MessageManager.initSocket	Found and configuring Interface: Realtek PCIe GBE Family Controller, IP=192.168.1.11, FTC_IOWA_1
+08:45:55:994 FINEST	MessageManager.initSocket	Found and configuring Interface: VirtualBox Host-Only Ethernet Adapter, IP=192.168.56.1, FTC_IOWA_1
+16:47:27:839 INFO	TeamController.generateTeamList	Creating Team list file for match generation: C:\Users\FTC_IOWA\Desktop\NSR2018\matchmaker_Win32\matchGenTeams.txt
+16:47:29:199 INFO	MatchController.saveGeneratedMatches	Saving generated matches for division: 2, Type: QUALIFICATION
+16:47:29:199 INFO	AllianceController.clear	Removing all existing alliance data and deletingalliances.txt
+16:47:29:199 INFO	AllianceController.clear	Could not delete alliance data file: alliances.txt
+16:47:29:199 INFO	AllianceController.clear	Removing existing elimination matches
+16:47:29:199 INFO	MatchController.clearMatches	Removing existing match data for Type: FINAL
+16:47:29:199 INFO	MatchController.save	Saving real matches to disk
+16:47:29:199 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\NSR2018\matches.txt
+16:47:29:215 FINEST	FTCProperties.store	Saving Properties File
+16:47:29:215 INFO	MatchController.clearMatches	Removing existing match data for Type: SEMIFINAL
+16:47:29:215 INFO	MatchController.save	Saving real matches to disk
+16:47:29:215 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\NSR2018\matches.txt
+16:47:29:215 FINEST	FTCProperties.store	Saving Properties File
+16:48:16:395 INFO	MatchController.saveGeneratedMatches	processing line=1 8686 0 5386 0 12783 0 4177 0
+16:48:16:395 INFO	MatchController.saveGeneratedMatches	processing line=2 13917 0 7261 0 9473 0 13193 0
+16:48:16:395 INFO	MatchController.saveGeneratedMatches	processing line=3 5037 0 8581 0 8393 0 6134 0
+16:48:16:395 INFO	MatchController.saveGeneratedMatches	processing line=4 11316 0 5957 0 7123 0 10237 0
+16:48:16:395 INFO	MatchController.saveGeneratedMatches	processing line=5 7351 0 11301 0 13206 0 10538 0
+16:48:16:395 INFO	MatchController.saveGeneratedMatches	processing line=6 11691 0 6133 0 6699 0 10091 0
+16:48:16:395 INFO	MatchController.saveGeneratedMatches	processing line=7 9052 0 13222 0 8579 0 10255 0
+16:48:16:395 INFO	MatchController.saveGeneratedMatches	processing line=8 13034 0 9862 0 10273 0 11360 0
+16:48:16:395 INFO	MatchController.saveGeneratedMatches	processing line=9 7129 0 7047 0 7236 0 8680 0
+16:48:16:395 INFO	MatchController.saveGeneratedMatches	processing line=10 7261 0 10237 0 8686 0 13206 0
+16:48:16:410 INFO	MatchController.saveGeneratedMatches	processing line=11 13917 0 12783 0 8393 0 6133 0
+16:48:16:410 INFO	MatchController.saveGeneratedMatches	processing line=12 11316 0 10255 0 11301 0 10091 0
+16:48:16:410 INFO	MatchController.saveGeneratedMatches	processing line=13 5386 0 11691 0 9473 0 13222 0
+16:48:16:410 INFO	MatchController.saveGeneratedMatches	processing line=14 6699 0 6134 0 13034 0 8579 0
+16:48:16:410 INFO	MatchController.saveGeneratedMatches	processing line=15 7123 0 11360 0 9052 0 8680 0
+16:48:16:410 INFO	MatchController.saveGeneratedMatches	processing line=16 4177 0 10538 0 5037 0 7129 0
+16:48:16:410 INFO	MatchController.saveGeneratedMatches	processing line=17 10273 0 7236 0 5957 0 8581 0
+16:48:16:410 INFO	MatchController.saveGeneratedMatches	processing line=18 13193 0 7351 0 9862 0 7047 0
+16:48:16:410 INFO	MatchController.saveGeneratedMatches	processing line=19 5386 0 7261 0 6134 0 11316 0
+16:48:16:410 INFO	MatchController.saveGeneratedMatches	processing line=20 6133 0 13034 0 11301 0 13222 0
+16:48:16:410 INFO	MatchController.saveGeneratedMatches	processing line=21 6699 0 8686 0 5037 0 11360 0
+16:48:16:410 INFO	MatchController.saveGeneratedMatches	processing line=22 8680 0 9473 0 12783 0 10237 0
+16:48:16:410 INFO	MatchController.saveGeneratedMatches	processing line=23 7236 0 8393 0 13193 0 9052 0
+16:48:16:411 INFO	MatchController.saveGeneratedMatches	processing line=24 8579 0 5957 0 7351 0 11691 0
+16:48:16:411 INFO	MatchController.saveGeneratedMatches	processing line=25 10273 0 13917 0 10255 0 7129 0
+16:48:16:411 INFO	MatchController.saveGeneratedMatches	processing line=26 4177 0 8581 0 7047 0 13206 0
+16:48:16:411 INFO	MatchController.saveGeneratedMatches	processing line=27 7123 0 9862 0 10091 0 10538 0
+16:48:16:411 INFO	MatchController.saveGeneratedMatches	processing line=28 6133 0 9052 0 5037 0 11316 0
+16:48:16:411 INFO	MatchController.saveGeneratedMatches	processing line=29 7236 0 10237 0 13222 0 11360 0
+16:48:16:411 INFO	MatchController.saveGeneratedMatches	processing line=30 7351 0 8393 0 8686 0 13034 0
+16:48:16:411 INFO	MatchController.saveGeneratedMatches	processing line=31 11301 0 9473 0 10273 0 4177 0
+16:48:16:411 INFO	MatchController.saveGeneratedMatches	processing line=32 7261 0 10091 0 6699 0 8680 0
+16:48:16:411 INFO	MatchController.saveGeneratedMatches	processing line=33 6134 0 10538 0 13917 0 7047 0
+16:48:16:411 INFO	MatchController.saveGeneratedMatches	processing line=34 7123 0 13193 0 13206 0 11691 0
+16:48:16:411 INFO	MatchController.saveGeneratedMatches	processing line=35 8581 0 8579 0 12783 0 7129 0
+16:48:16:411 INFO	MatchController.saveGeneratedMatches	processing line=36 9862 0 5386 0 10255 0 5957 0
+16:48:16:411 INFO	MatchController.saveGeneratedMatches	processing line=37 8680 0 10273 0 7351 0 6133 0
+16:48:16:412 INFO	MatchController.saveGeneratedMatches	processing line=38 9473 0 9052 0 6699 0 10538 0
+16:48:16:412 INFO	MatchController.saveGeneratedMatches	processing line=39 11316 0 11691 0 8686 0 7236 0
+16:48:16:412 INFO	MatchController.saveGeneratedMatches	processing line=40 11360 0 13206 0 10091 0 6134 0
+16:48:16:412 INFO	MatchController.saveGeneratedMatches	processing line=41 8581 0 13034 0 5386 0 7123 0
+16:48:16:412 INFO	MatchController.saveGeneratedMatches	processing line=42 4177 0 13917 0 10237 0 8579 0
+16:48:16:412 INFO	MatchController.saveGeneratedMatches	processing line=43 12783 0 10255 0 13193 0 5037 0
+16:48:16:412 INFO	MatchController.saveGeneratedMatches	processing line=44 8393 0 5957 0 7047 0 13222 0
+16:48:16:412 INFO	MatchController.saveGeneratedMatches	processing line=45 7261 0 7129 0 9862 0 11301 0
+16:48:16:412 INFO	MatchController.saveGeneratedMatches	processing line=46 8680 0 11360 0 11691 0 10538 0
+16:48:16:412 INFO	MatchController.saveGeneratedMatches	processing line=47 4177 0 10091 0 7236 0 13034 0
+16:48:16:412 INFO	MatchController.saveGeneratedMatches	processing line=48 7351 0 5037 0 13917 0 5386 0
+16:48:16:412 INFO	MatchController.saveGeneratedMatches	processing line=49 9052 0 11316 0 12783 0 5957 0
+16:48:16:412 INFO	MatchController.saveGeneratedMatches	processing line=50 11301 0 6699 0 13193 0 10237 0
+16:48:16:413 INFO	MatchController.saveGeneratedMatches	processing line=51 7129 0 13222 0 8686 0 6134 0
+16:48:16:413 INFO	MatchController.saveGeneratedMatches	processing line=52 7047 0 7123 0 10273 0 7261 0
+16:48:16:413 INFO	MatchController.saveGeneratedMatches	processing line=53 13206 0 8393 0 9862 0 8579 0
+16:48:16:413 INFO	MatchController.saveGeneratedMatches	processing line=54 6133 0 9473 0 10255 0 8581 0
+16:48:16:413 INFO	MatchController.saveGeneratedMatches	processing line=55 11316 0 11360 0 7351 0 4177 0
+16:48:16:413 INFO	MatchController.saveGeneratedMatches	processing line=56 13193 0 13034 0 5957 0 10538 0
+16:48:16:413 INFO	MatchController.saveGeneratedMatches	processing line=57 12783 0 13222 0 13917 0 10091 0
+16:48:16:413 INFO	MatchController.saveGeneratedMatches	processing line=58 10237 0 6134 0 9052 0 9862 0
+16:48:16:413 INFO	MatchController.saveGeneratedMatches	processing line=59 8686 0 11301 0 8581 0 8680 0
+16:48:16:413 INFO	MatchController.saveGeneratedMatches	processing line=60 6699 0 10273 0 5386 0 13206 0
+16:48:16:413 INFO	MatchController.saveGeneratedMatches	processing line=61 8579 0 7236 0 7261 0 6133 0
+16:48:16:413 INFO	MatchController.saveGeneratedMatches	processing line=62 11691 0 7047 0 10255 0 5037 0
+16:48:16:413 INFO	MatchController.saveGeneratedMatches	processing line=63 7129 0 7123 0 9473 0 8393 0
+16:48:16:413 INFO	MatchController.saveGeneratedMatches	processing line=64 13222 0 10538 0 8581 0 11316 0
+16:48:16:413 INFO	MatchController.saveGeneratedMatches	processing line=65 8686 0 8680 0 9862 0 13917 0
+16:48:16:414 INFO	MatchController.saveGeneratedMatches	processing line=66 4177 0 5957 0 6134 0 6133 0
+16:48:16:414 INFO	MatchController.saveGeneratedMatches	processing line=67 8579 0 10091 0 13193 0 10273 0
+16:48:16:414 INFO	MatchController.saveGeneratedMatches	processing line=68 13206 0 7236 0 9473 0 5037 0
+16:48:16:414 INFO	MatchController.saveGeneratedMatches	processing line=69 10237 0 13034 0 7129 0 11691 0
+16:48:16:414 INFO	MatchController.saveGeneratedMatches	processing line=70 10255 0 8393 0 11360 0 7261 0
+16:48:16:414 INFO	MatchController.saveGeneratedMatches	processing line=71 7047 0 11301 0 9052 0 5386 0
+16:48:16:414 INFO	MatchController.saveGeneratedMatches	processing line=72 12783 0 7351 0 7123 0 6699 0
+16:48:16:414 INFO	MatchController.saveGeneratedMatches	processing line=73 8686 0 10091 0 5957 0 9473 0
+16:48:16:414 INFO	MatchController.saveGeneratedMatches	processing line=74 8680 0 13193 0 4177 0 13222 0
+16:48:16:414 INFO	MatchController.saveGeneratedMatches	processing line=75 10538 0 10237 0 8393 0 10273 0
+16:48:16:414 INFO	MatchController.saveGeneratedMatches	processing line=76 11360 0 5386 0 7129 0 6133 0
+16:48:16:414 INFO	MatchController.saveGeneratedMatches	processing line=77 8579 0 5037 0 7123 0 11301 0
+16:48:16:414 INFO	MatchController.saveGeneratedMatches	processing line=78 8581 0 11691 0 7261 0 9052 0
+16:48:16:414 INFO	MatchController.saveGeneratedMatches	processing line=79 6699 0 13917 0 11316 0 9862 0
+16:48:16:414 INFO	MatchController.saveGeneratedMatches	processing line=80 12783 0 13206 0 13034 0 7047 0
+16:48:16:415 INFO	MatchController.saveGeneratedMatches	processing line=81 6134 0 10255 0 7351 0 7236 0
+16:48:16:415 INFO	MatchController.saveGeneratedMatches	Removing existing match information
+16:48:16:415 INFO	MatchController.clearMatches	Removing existing match data for Type: QUALIFICATION
+16:48:16:415 INFO	MatchController.save	Saving real matches to disk
+16:48:16:415 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\NSR2018\matches.txt
+16:48:16:416 FINEST	FTCProperties.store	Saving Properties File
+16:48:16:417 INFO	MatchController.save	Saving real matches to disk
+16:48:16:426 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\NSR2018\matches.txt
+16:48:16:473 FINEST	FTCProperties.store	Saving Properties File
+16:48:16:473 INFO	MatchController.saveGeneratedMatches	setting matches in division panel
+16:48:16:473 INFO	MatchController.saveGeneratedMatches	Setting flags in division object
+16:48:16:489 INFO	DivisionController.save	Saved Division information to divisions.txt
+16:48:16:489 INFO	DivisionController.save	Saved Division information to divisions.txt
+16:49:34:278 FINEST	ScheduleController.read	Schedule File does not exist
+16:49:46:194 INFO	ReportGenerator.generateMatchList	Generating Match list report
+16:49:46:209 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
