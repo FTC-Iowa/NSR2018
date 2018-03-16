@@ -611,3 +611,17 @@
 16:40:54:758 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
 16:40:54:774 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
 16:40:54:789 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+16:50:16:628 INFO	MatchPanel.saveAction	saving scores for match Q-64:
+16:50:16:644 INFO	MatchController.save	Saving real matches to disk
+16:50:16:644 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\NSR2018\matches.txt
+16:50:16:706 FINEST	FTCProperties.store	Saving Properties File
+16:50:16:706 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+16:50:16:706 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+16:50:16:722 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+16:52:06:709 INFO	MatchPanel.saveAction	saving scores for match Q-65:
+16:52:06:725 INFO	MatchController.save	Saving real matches to disk
+16:52:06:725 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\NSR2018\matches.txt
+16:52:06:772 FINEST	FTCProperties.store	Saving Properties File
+16:52:06:772 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+16:52:06:787 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+16:52:06:787 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
