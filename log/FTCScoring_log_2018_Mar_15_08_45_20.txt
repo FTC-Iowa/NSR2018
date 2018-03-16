@@ -588,3 +588,24 @@
 16:10:35:570 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
 16:10:35:570 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
 16:10:35:586 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+16:12:49:103 INFO	MatchPanel.saveAction	saving scores for match Q-62:
+16:12:49:134 INFO	MatchController.save	Saving real matches to disk
+16:12:49:134 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\NSR2018\matches.txt
+16:12:49:166 FINEST	FTCProperties.store	Saving Properties File
+16:12:49:166 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+16:12:49:166 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+16:12:49:181 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+16:14:32:856 INFO	MatchPanel.saveAction	saving scores for match Q-63:
+16:14:32:897 INFO	MatchController.save	Saving real matches to disk
+16:14:32:897 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\NSR2018\matches.txt
+16:14:32:943 FINEST	FTCProperties.store	Saving Properties File
+16:14:32:943 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+16:14:32:943 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+16:14:32:943 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+16:17:10:233 INFO	MatchPanel.saveAction	saving scores for match Q-64:
+16:17:10:264 INFO	MatchController.save	Saving real matches to disk
+16:17:10:264 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\NSR2018\matches.txt
+16:17:10:327 FINEST	FTCProperties.store	Saving Properties File
+16:17:10:327 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+16:17:10:342 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+16:17:10:342 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
