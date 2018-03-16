@@ -232,3 +232,10 @@
 09:52:51:937 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
 09:52:51:952 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
 09:52:51:968 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+10:01:30:303 INFO	MatchPanel.saveAction	saving scores for match Q-12:
+10:01:30:350 INFO	MatchController.save	Saving real matches to disk
+10:01:30:366 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\NSR2018\matches.txt
+10:01:30:428 FINEST	FTCProperties.store	Saving Properties File
+10:01:30:428 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+10:01:30:444 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+10:01:30:506 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
