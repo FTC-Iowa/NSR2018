@@ -325,3 +325,26 @@
 12:08:46:469 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
 12:08:46:469 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
 12:08:46:485 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+12:13:13:789 INFO	MatchPanel.saveAction	saving scores for match Q-26:
+12:13:13:805 INFO	MatchController.save	Saving real matches to disk
+12:13:13:805 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\NSR2018\matches.txt
+12:13:13:867 FINEST	FTCProperties.store	Saving Properties File
+12:13:13:867 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+12:13:13:867 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+12:13:13:867 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+12:18:08:240 INFO	MatchPanel.saveAction	saving scores for match Q-27:
+12:18:08:256 INFO	MatchController.save	Saving real matches to disk
+12:18:08:271 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\NSR2018\matches.txt
+12:18:08:318 FINEST	FTCProperties.store	Saving Properties File
+12:18:08:318 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+12:18:08:318 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+12:18:08:318 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+12:18:26:772 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+12:18:26:772 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
+12:19:54:339 INFO	MatchPanel.saveAction	saving scores for match Q-28:
+12:19:54:355 INFO	MatchController.save	Saving real matches to disk
+12:19:54:370 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\NSR2018\matches.txt
+12:19:54:417 FINEST	FTCProperties.store	Saving Properties File
+12:19:54:417 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+12:19:54:433 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+12:19:54:433 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
