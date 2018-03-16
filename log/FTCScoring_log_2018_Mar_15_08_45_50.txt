@@ -283,3 +283,24 @@
 11:19:28:046 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
 11:19:49:784 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
 11:19:49:799 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
+11:27:53:664 INFO	MatchPanel.saveAction	saving scores for match Q-19:
+11:27:53:711 INFO	MatchController.save	Saving real matches to disk
+11:27:53:711 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\NSR2018\matches.txt
+11:27:53:774 FINEST	FTCProperties.store	Saving Properties File
+11:27:53:789 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+11:27:53:805 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+11:27:53:805 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+11:31:46:340 INFO	MatchPanel.saveAction	saving scores for match Q-20:
+11:31:46:355 INFO	MatchController.save	Saving real matches to disk
+11:31:46:371 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\NSR2018\matches.txt
+11:31:46:433 FINEST	FTCProperties.store	Saving Properties File
+11:31:46:433 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+11:31:46:449 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+11:31:46:449 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+11:35:30:189 INFO	MatchPanel.saveAction	saving scores for match Q-21:
+11:35:30:204 INFO	MatchController.save	Saving real matches to disk
+11:35:30:220 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\NSR2018\matches.txt
+11:35:30:267 FINEST	FTCProperties.store	Saving Properties File
+11:35:30:282 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+11:35:30:282 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+11:35:30:298 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
