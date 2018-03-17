@@ -168,3 +168,7 @@
 15:36:41:402 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
 15:38:07:799 FINEST	AwardController.setAward	Adding award Motivate Award
 15:38:07:799 INFO	AwardController.save	Saved Award information
+17:07:58:979 FINEST	Startup Screen.Exit Action Listener	Exiting Application
+17:07:58:979 INFO	MessageManager.<Shutdown hook>	Aborting Thread
+17:07:58:989 FINEST	DisplayPanel.<Shutdown Thread>	Shutting down display Related Threads
+----- Log Terminated at 17:07:58:999 -----
