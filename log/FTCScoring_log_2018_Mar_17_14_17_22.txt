@@ -90,3 +90,71 @@
 15:13:50:228 INFO	MatchController.save	Saving real matches to disk
 15:13:50:228 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\NSR2018\DualDivision_matches.txt
 15:13:50:238 FINEST	FTCProperties.store	Saving Properties File
+15:20:04:755 INFO	MatchPanel.saveAction	saving scores for match F-3:
+15:20:04:755 FINEST	MatchController.update	Looking for next elimination match.  Match F-3 was just updated
+15:20:04:755 FINEST	EliminationTracker.getNextMatch	Evaluating elimination ladder based on F-3
+15:20:04:755 FINEST	EliminationTracker.getNextMatch	found match, replacing it
+15:20:04:755 FINEST	EliminationTracker.getNextMatch	Red alliance has 1 wins
+15:20:04:755 FINEST	EliminationTracker.getNextMatch	Blue alliance has 2 wins
+15:20:04:755 FINEST	EliminationTracker.getNextMatch	Winner has been determined, advancing to next level in ladder
+15:20:04:755 FINEST	EliminationTracker.getNextMatch	Finals completed, event is finished, no more matches.
+15:20:04:755 FINEST	EliminationTracker.getNextMatch	Finals completed, Blue Won.
+15:20:04:755 FINEST	MatchController.update	Elimination tracker could not find additional matches
+15:20:04:755 FINEST	MatchController.update	Elimination tracker reporting that event is complete
+15:20:04:755 FINEST	AwardController.setAward	Adding award North Super Regional Winning Alliance
+15:20:04:755 INFO	AwardController.save	Saved Award information
+15:20:04:765 FINEST	AwardController.setAward	Adding award North Super Regional Finalist Alliance
+15:20:04:765 INFO	AwardController.save	Saved Award information
+15:20:04:775 INFO	MatchController.save	Saving real matches to disk
+15:20:04:775 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\NSR2018\DualDivision_matches.txt
+15:20:04:775 FINEST	FTCProperties.store	Saving Properties File
+15:20:04:785 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+15:20:04:785 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+15:20:04:785 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+15:22:15:522 STDERR	Exception in thread "AWT-EventQueue-0" 
+15:22:15:552 STDERR	java.lang.NullPointerException
+15:22:15:612 STDERR		at com.usfirst.ftc.awards.AwardsPanel.importFile(AwardsPanel.java:462)
+15:22:15:612 STDERR		at com.usfirst.ftc.awards.AwardsPanel.access$13(AwardsPanel.java:460)
+15:22:15:612 STDERR		at com.usfirst.ftc.awards.AwardsPanel$3.actionPerformed(AwardsPanel.java:622)
+15:22:15:612 STDERR		at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+15:22:15:622 STDERR		at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+15:22:15:622 STDERR		at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+15:22:15:622 STDERR		at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+15:22:15:622 STDERR		at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+15:22:15:622 STDERR		at java.awt.Component.processMouseEvent(Unknown Source)
+15:22:15:622 STDERR		at javax.swing.JComponent.processMouseEvent(Unknown Source)
+15:22:15:622 STDERR		at java.awt.Component.processEvent(Unknown Source)
+15:22:15:622 STDERR		at java.awt.Container.processEvent(Unknown Source)
+15:22:15:622 STDERR		at java.awt.Component.dispatchEventImpl(Unknown Source)
+15:22:15:632 STDERR		at java.awt.Container.dispatchEventImpl(Unknown Source)
+15:22:15:632 STDERR		at java.awt.Component.dispatchEvent(Unknown Source)
+15:22:15:632 STDERR		at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+15:22:15:632 STDERR		at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+15:22:15:632 STDERR		at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+15:22:15:632 STDERR		at java.awt.Container.dispatchEventImpl(Unknown Source)
+15:22:15:642 STDERR		at java.awt.Window.dispatchEventImpl(Unknown Source)
+15:22:15:642 STDERR		at java.awt.Component.dispatchEvent(Unknown Source)
+15:22:15:642 STDERR		at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+15:22:15:642 STDERR		at java.awt.EventQueue.access$500(Unknown Source)
+15:22:15:642 STDERR		at java.awt.EventQueue$3.run(Unknown Source)
+15:22:15:642 STDERR		at java.awt.EventQueue$3.run(Unknown Source)
+15:22:15:642 STDERR		at java.security.AccessController.doPrivileged(Native Method)
+15:22:15:642 STDERR		at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+15:22:15:642 STDERR		at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+15:22:15:642 STDERR		at java.awt.EventQueue$4.run(Unknown Source)
+15:22:15:642 STDERR		at java.awt.EventQueue$4.run(Unknown Source)
+15:22:15:652 STDERR		at java.security.AccessController.doPrivileged(Native Method)
+15:22:15:652 STDERR		at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+15:22:15:652 STDERR		at java.awt.EventQueue.dispatchEvent(Unknown Source)
+15:22:15:652 STDERR		at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+15:22:15:652 STDERR		at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+15:22:15:652 STDERR		at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+15:22:15:652 STDERR		at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+15:22:15:652 STDERR		at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+15:22:15:652 STDERR		at java.awt.EventDispatchThread.run(Unknown Source)
+15:22:52:152 INFO	AwardController.read	Awards successfully read, 19 read from file
+15:22:52:162 INFO	AwardController.save	Saved Award information
+15:23:08:889 FINEST	AwardController.setAward	Adding award Inspire Award
+15:23:08:889 INFO	AwardController.save	Saved Award information
+15:23:35:644 INFO	ReportGenerator.generateAdvancementReport	Generating teams that qualify for advancement
+15:23:35:674 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
