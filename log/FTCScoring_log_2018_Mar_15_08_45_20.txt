@@ -850,3 +850,5 @@
 12:20:33:155 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
 12:20:33:155 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
 12:20:33:155 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+13:20:48:114 INFO	ReportGenerator.generateEliminiationLadderReport	Generating Elimination Ladder report
+13:20:48:114 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
