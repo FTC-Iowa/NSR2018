@@ -754,3 +754,33 @@
 10:55:53:469 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
 11:05:42:130 INFO	ReportGenerator.generateEliminiationLadderReport	Generating Elimination Ladder report
 11:05:42:146 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
+11:43:31:877 INFO	MatchPanel.saveAction	saving scores for match SF-1-1:
+11:43:31:877 FINEST	MatchController.update	Looking for next elimination match.  Match SF-1-1 was just updated
+11:43:31:877 FINEST	EliminationTracker.getNextMatch	Evaluating elimination ladder based on SF-1-1
+11:43:31:877 FINEST	EliminationTracker.getNextMatch	found match, replacing it
+11:43:31:877 FINEST	EliminationTracker.getNextMatch	Red alliance has 1 wins
+11:43:31:877 FINEST	EliminationTracker.getNextMatch	Blue alliance has 0 wins
+11:43:31:877 FINEST	EliminationTracker.getNextMatch	Neither team has enough wins, generating next match
+11:43:31:877 FINEST	MatchController.update	Elimination tracker is adding: SF-1-2
+11:43:31:877 FINEST	MatchController.update	Match is new, add it
+11:43:31:908 INFO	MatchController.save	Saving real matches to disk
+11:43:31:908 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\NSR2018\matches.txt
+11:43:31:971 FINEST	FTCProperties.store	Saving Properties File
+11:43:31:971 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+11:43:31:971 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+11:43:31:971 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+11:50:45:902 INFO	MatchPanel.saveAction	saving scores for match SF-2-1:
+11:50:45:902 FINEST	MatchController.update	Looking for next elimination match.  Match SF-2-1 was just updated
+11:50:45:902 FINEST	EliminationTracker.getNextMatch	Evaluating elimination ladder based on SF-2-1
+11:50:45:902 FINEST	EliminationTracker.getNextMatch	found match, replacing it
+11:50:45:902 FINEST	EliminationTracker.getNextMatch	Red alliance has 0 wins
+11:50:45:902 FINEST	EliminationTracker.getNextMatch	Blue alliance has 1 wins
+11:50:45:902 FINEST	EliminationTracker.getNextMatch	Neither team has enough wins, generating next match
+11:50:45:902 FINEST	MatchController.update	Elimination tracker is adding: SF-2-2
+11:50:45:902 FINEST	MatchController.update	Match is new, add it
+11:50:45:933 INFO	MatchController.save	Saving real matches to disk
+11:50:45:933 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\NSR2018\matches.txt
+11:50:45:995 FINEST	FTCProperties.store	Saving Properties File
+11:50:45:995 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+11:50:46:011 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+11:50:46:011 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
