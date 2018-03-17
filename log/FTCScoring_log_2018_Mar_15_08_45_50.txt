@@ -770,3 +770,9 @@
 11:01:22:656 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
 11:03:17:752 INFO	ReportGenerator.generateAnnouncerAllianceSheets	Generating Announcer Alliance Sheets
 11:03:17:768 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
+11:05:39:238 INFO	ReportGenerator.generateEliminiationLadderReport	Generating Elimination Ladder report
+11:05:39:254 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
+11:12:13:079 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+11:12:13:095 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
+11:15:02:122 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+11:15:02:122 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
