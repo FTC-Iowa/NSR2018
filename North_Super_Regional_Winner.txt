@@ -1,0 +1,10 @@
+Number|Name|Matches Per Team|Password
+0|North Super Regional|0|0|0|0|null
+0|2|3|7261|8680|11316
+2|7261|Omega Robotics|North High School|Sioux City|Iowa| |false|true|0
+2|8680|Kraken Pinion|Homestead High School|Mequon|Wisconsin| |false|true|0
+2|11316|Weapons of Mass Construction|Warren County Robotics|Indianola|Iowa| |false|true|0
+Rankings
+Awards
+North Super Regional Winning Alliance|3|false|false| | |true|2: 7261,8680,11316|7261|8680|11316
+North Super Regional Finalist Alliance|3|false|false| | |true|1: 12231,5040,7693|12231|5040|7693
