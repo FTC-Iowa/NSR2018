@@ -741,3 +741,32 @@
 09:44:09:150 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
 09:44:09:150 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
 09:44:09:166 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+10:54:34:914 INFO	AllianceSelectionPanel.acceptAction	Alliance Captian 4, Team 8393 accepted selection
+10:55:34:836 INFO	AllianceSelectionPanel.acceptAction	Team 8680 accepted selection
+10:56:15:009 INFO	AllianceSelectionPanel.rejectAction	Alliance Captain 4declined selection
+10:56:51:823 INFO	AllianceSelectionPanel.acceptAction	Team 10237 accepted selection
+10:57:25:249 INFO	AllianceSelectionPanel.acceptAction	Team 7351 accepted selection
+10:58:06:043 INFO	AllianceSelectionPanel.acceptAction	Team 7129 accepted selection
+10:58:46:480 INFO	AllianceSelectionPanel.acceptAction	Team 11316 accepted selection
+10:59:24:748 INFO	AllianceSelectionPanel.acceptAction	Team 9862 accepted selection
+11:00:01:248 INFO	AllianceSelectionPanel.acceptAction	Team 9052 accepted selection
+11:00:16:952 INFO	AllianceSelectionPanel.generateAction	Generating initial elimination matches and saving alliances
+11:00:16:952 INFO	AllianceController.save	Saved Alliance information
+11:00:16:952 INFO	MatchController.clearMatches	Removing existing match data for Type: FINAL
+11:00:16:952 INFO	MatchController.save	Saving real matches to disk
+11:00:16:967 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\NSR2018\matches.txt
+11:00:17:030 FINEST	FTCProperties.store	Saving Properties File
+11:00:17:045 INFO	MatchController.clearMatches	Removing existing match data for Type: SEMIFINAL
+11:00:17:045 INFO	MatchController.save	Saving real matches to disk
+11:00:17:045 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\NSR2018\matches.txt
+11:00:17:123 FINEST	FTCProperties.store	Saving Properties File
+11:00:17:155 INFO	MatchController.save	Saving real matches to disk
+11:00:17:155 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\NSR2018\matches.txt
+11:00:17:219 FINEST	FTCProperties.store	Saving Properties File
+11:00:17:219 FINEST	MatchController.createEliminationTracker	Match controller contains 83 matches
+11:00:59:155 INFO	ReportGenerator.generateEliminiationLadderReport	Generating Elimination Ladder report
+11:00:59:218 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
+11:01:22:641 INFO	ReportGenerator.generateAnnouncerAllianceSheets	Generating Announcer Alliance Sheets
+11:01:22:656 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
+11:03:17:752 INFO	ReportGenerator.generateAnnouncerAllianceSheets	Generating Announcer Alliance Sheets
+11:03:17:768 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
