@@ -1,0 +1,10 @@
+Event Name
+North Super Regional
+Event Type
+REGIONAL_CHAMPIONSHIP
+Using Multiple Divisions
+false
+Number|Name|Matches Per Team|Password
+0|North Super Regional|0|0|0|0|null
+1|Ortberg|9|2|17|2018|Iowa
+2|Tinker|9|2|17|2018|Iowa

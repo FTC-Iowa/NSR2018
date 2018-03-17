@@ -12,3 +12,5 @@ Dean's List Finalist Award|3|false|false|FIRST Dean's List Finalists are outstan
 Inspire Award|3|true|true|The Inspire Award is given to the Team that the Judges felt truly embodied the 'challenge' of the FIRST Tech Challenge program. The Team that receives this award is a strong ambassador for FIRST programs and works to promote FIRST and make it loud in their community. The Team that receives this Award has performed well in all Judging categories and was chosen by the Judges as a model FIRST Tech Challenge Team on and off the playing field.  The Judges used Match performance, observations made during interviews and in the pit area, the Team's Engineering Notebook, and performance on the playing field in determining the winner.| |false| |0|0|0
 Ortberg Winning Alliance|3|false|false| | |true|1: 12231,5040,7693|12231|5040|7693
 Ortberg Finalist Alliance|3|false|false| | |true|3: 10435,3507,9956|10435|3507|9956
+Tinker Winning Alliance|3|false|false| | |true|2: 7261,8680,11316|7261|8680|11316
+Tinker Finalist Alliance|3|false|false| | |true|1: 10091,8393,7129|10091|8393|7129

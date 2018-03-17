@@ -1,0 +1,46 @@
+Number|Name|Matches Per Team|Password
+2|Tinker|9|2|17|2018|Iowa
+2|2|3|7261|8680|11316
+2|7261|Omega Robotics|North High School|Sioux City|Iowa| |false|true|0
+2|8680|Kraken Pinion|Homestead High School|Mequon|Wisconsin| |false|true|0
+2|11316|Weapons of Mass Construction|Warren County Robotics|Indianola|Iowa| |false|true|0
+Rankings
+1|10091
+2|7261
+3|7047
+4|8393
+5|6133
+6|8579
+7|7129
+8|10237
+9|5957
+10|8680
+11|7351
+12|13917
+13|10255
+14|12783
+15|13034
+16|6134
+17|8581
+18|8686
+19|9862
+20|6699
+21|9052
+22|11691
+23|11301
+24|7236
+25|10538
+26|13206
+27|13193
+28|4177
+29|5037
+30|5386
+31|10273
+32|11316
+33|9473
+34|11360
+35|13222
+36|7123
+Awards
+Tinker Winning Alliance|3|false|false| | |true|2: 7261,8680,11316|7261|8680|11316
+Tinker Finalist Alliance|3|false|false| | |true|1: 10091,8393,7129|10091|8393|7129
