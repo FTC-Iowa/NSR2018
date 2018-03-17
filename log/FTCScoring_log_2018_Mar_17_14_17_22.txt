@@ -50,3 +50,6 @@
 14:31:34:817 INFO	MatchController.save	Saving real matches to disk
 14:31:34:817 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\NSR2018\DualDivision_matches.txt
 14:31:34:817 FINEST	FTCProperties.store	Saving Properties File
+14:35:16:003 INFO	MatchController.save	Saving real matches to disk
+14:35:16:003 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\NSR2018\DualDivision_matches.txt
+14:35:16:013 FINEST	FTCProperties.store	Saving Properties File
