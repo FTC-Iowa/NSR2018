@@ -1,0 +1,72 @@
+1|3507|RoboTheosis|Francis Parker School|Chicago|Illinois| |false|true|9|0|324|324|2|322|349|2|163|347|2|157|508|2|360|371|0|270|270|2|364|382|2|149|332|0|108|138
+1|3763|Piece of Cake|Edina Public Schools|Edina|Minnesota| |false|true|9|2|323|476|2|208|302|0|250|250|2|287|470|2|177|349|0|270|270|2|227|390|0|277|277|2|250|374
+1|5040|Nuts & Bolts|Loveland High School|Loveland|Ohio| |false|true|9|2|366|484|2|306|399|2|205|369|2|278|598|2|130|504|2|270|287|0|237|237|0|80|80|0|390|390
+1|5140|WACO Aerobotics|WACO Historical Society|Troy|Ohio| |false|true|9|0|184|184|2|322|349|2|226|303|2|290|328|0|130|130|0|193|193|0|213|213|2|329|523|2|250|374
+1|5975|CYBOTS|Denver Community Schools|Denver|Iowa| |false|true|9|2|323|476|0|306|306|2|234|431|2|395|429|0|207|207|2|194|509|0|364|364|2|235|372|0|95|95
+1|6287|Vertigo|Highland Park High School|Highland Park|Illinois| |false|true|9|0|324|324|0|269|269|2|147|250|0|287|297|2|409|410|2|178|336|2|213|453|2|224|398|2|390|425
+1|6596|Robotic Rams|Riverdale High School|Port Byron|Illinois| |false|true|9|0|231|231|2|313|345|2|226|303|0|287|287|0|409|409|0|194|194|0|237|237|0|149|149|0|250|250
+1|6931|The Substantial Monocephalic BrainSTEM Robotics Team|BrainSTEM Learning|Baden|Pennsylvania| |false|true|9|2|324|328|0|313|313|0|192|192|0|395|395|2|252|255|2|193|369|2|276|449|0|170|170|0|273|273
+1|7023|HexaSonics|Allendale Middle School|Allendale|Michigan| |false|true|9|0|372|372|0|359|359|0|294|294|0|290|310|0|320|320|0|307|317|2|227|390|0|235|235|0|261|261
+1|7048|Purple Protons|Bloomfield Hills Middle School|Bloomfield Hills|Michigan| |false|true|9|2|207|497|0|313|313|2|147|250|0|290|310|0|177|177|2|328|344|0|149|159|0|80|80|1|260|260
+1|7190|Green Girls Robotics|Anthem|Lakeville|Minnesota| |false|true|9|0|101|101|0|208|208|0|205|205|0|395|395|0|320|320|0|222|222|2|263|277|2|149|332|0|209|209
+1|7693|TECHNADOS|Clarkston Junior High School|Clarkston|Michigan| |false|true|9|2|184|463|0|359|359|2|234|431|0|278|278|0|360|360|0|228|228|2|263|277|0|224|224|2|273|375
+1|8133|Bionic Sailors|Our Lady of the Lakes School|Waterford|Michigan| |false|true|9|0|207|207|2|345|406|0|226|226|2|278|598|2|320|322|0|178|188|2|364|382|2|170|278|2|120|267
+1|8533|CSPA Miners|Charyl Stockwell Academy|Brighton|Michigan| |false|true|9|0|366|376|0|322|332|0|192|192|2|287|329|2|360|371|0|328|338|0|227|227|2|306|315|0|95|95
+1|8620|Wormgear Warriors|Metro Area Robotics Association (MARS)|Edwardsville|Illinois| |false|true|9|0|366|376|2|234|320|0|234|234|0|287|297|0|252|252|2|307|481|2|203|379|0|149|149|0|120|120
+1|8646|Team KAOS|Parker Middle School|Howell|Michigan| |false|true|9|2|101|343|0|263|263|0|250|250|2|290|328|0|252|252|2|228|420|2|237|316|2|168|429|2|95|306
+1|8711|The Gas Attendants|ETHOS Science Center|Elkhart|Indiana| |false|true|9|2|372|396|0|234|234|2|205|369|0|350|350|2|207|467|0|328|338|0|276|316|2|224|398|0|250|250
+1|8749|Robota White|Union Community School District|La Porte City|Iowa| |false|true|9|0|184|184|0|269|269|0|163|163|2|189|217|0|207|207|0|201|201|0|227|227|2|80|288|0|120|120
+1|8808|Ponytail Posse|Ponytail Posse|Saint Paul|Minnesota| |false|true|9|0|207|207|2|359|361|2|163|347|0|350|350|2|200|293|0|222|222|2|203|379|0|277|277|0|390|390
+1|8813|The Winter Soldiers|Quad City Engineering & Science Council|Bettendorf|Iowa| |false|true|9|2|231|251|2|234|320|0|163|163|0|278|278|2|177|349|0|193|193|0|149|159|0|235|235|2|261|273
+1|8817|Fruit Salad|Crystal Lake Robotics|Crystal Lake|Illinois| |false|true|9|0|372|372|2|263|287|0|271|271|2|298|332|0|360|360|2|194|509|2|149|266|2|170|278|2|390|425
+1|9205|Iron Maidens|Apple Valley High School|Apple Valley|Minnesota| |false|true|9|2|181|308|2|208|302|0|234|234|0|287|287|0|130|130|0|178|188|2|276|449|0|168|178|0|261|261
+1|9890|RUBIES|RUBIES|Minneapolis|Minnesota| |false|true|9|2|181|308|0|234|234|2|250|310|0|157|157|0|200|200|0|201|201|0|263|263|0|170|170|2|95|306
+1|9956|The Knack|Lake Country School/Arrowhead|Hartland|Wisconsin| |false|true|9|0|323|323|2|313|345|0|271|271|2|350|421|2|320|322|2|201|459|0|213|213|2|168|429|0|108|138
+1|9968|CrossFire|Valley Lutheran School|Cedar Falls|Iowa| |false|true|9|2|231|251|0|208|208|2|271|334|2|350|421|2|335|415|0|307|317|0|291|291|2|80|288|0|273|273
+1|9978|Avengers Tech|4?H Robotics Club|Sergeant Bluff|Iowa| |false|true|9|0|181|181|2|359|361|2|271|334|2|189|217|2|409|410|2|193|369|0|364|364|2|306|315|0|209|209
+1|10309|TechnoHuskies|Jefferson Middle School|Midland|Michigan| |false|true|9|2|372|396|2|269|315|0|226|226|2|395|429|0|200|200|2|228|420|0|291|291|0|306|306|1|260|260
+1|10435|Circuit Breakers|Timberline School|Waukee|Iowa| |false|true|9|2|324|328|0|345|345|2|250|310|2|287|329|2|335|415|2|307|481|2|149|266|0|329|339|2|209|568
+1|11190|Mecha Dojo Robotics|MG Products|Eden Prairie|Minnesota| |false|true|9|0|181|181|2|306|399|0|205|205|2|298|332|0|335|335|0|228|228|2|213|453|2|277|300|2|120|267
+1|11872|Visible Spectrum|Lakeville North High School|Lakeville|Minnesota| |false|true|9|0|101|101|0|345|345|0|147|157|0|189|189|2|200|293|0|194|194|0|276|316|2|277|300|2|108|258
+1|12231|Warrior Tech|North Miami Schools|Denver|Indiana| |false|true|9|2|366|484|2|263|287|0|147|157|2|157|508|2|207|467|2|222|231|2|291|510|2|329|523|2|261|273
+1|12528|NextGen|High Tech Kids|Minneapolis|Minnesota| |false|true|9|2|207|497|0|263|263|2|192|295|2|287|470|2|130|504|2|201|459|2|291|510|2|235|372|2|209|568
+1|12549|Robo Rebels|Larson Middle School|Troy|Michigan| |false|true|9|2|101|343|0|306|306|0|294|294|0|157|157|0|177|177|2|178|336|0|203|203|0|306|306|2|273|375
+1|12682|The Golden Ratio|The Golden Ratio|Cary|Illinois| |false|true|9|2|184|463|2|345|406|2|192|295|0|298|298|0|409|409|2|270|287|0|203|203|0|168|178|1|260|260
+1|12835|Pixelated|GEARS, Inc.|Granger|Indiana| |false|true|9|0|231|231|2|269|315|2|294|336|0|298|298|2|252|255|2|328|344|0|263|263|0|329|339|2|108|258
+1|13178|Roncalli Robo-Cavs|Roncalli Catholic High School|Aberdeen|South Dakota| |false|true|9|0|323|323|0|322|332|2|294|336|0|189|189|0|335|335|2|222|231|2|237|316|0|224|224|1|260|260
+2|4177|Finger Tightans|Highland High School|Riverside|Iowa| |false|true|0
+2|5037|got robot?|got robot?|Elgin|Illinois| |false|true|0
+2|5386|Fabricators|Freeland Middle/High School|Freeland|Michigan| |false|true|0
+2|5957|Sonic Eagles|Hartland M.S. at Ore Creek|Hartland|Michigan| |false|true|0
+2|6133|The "NUTS!"|Walnut Hills High School|Cincinnati|Ohio| |false|true|0
+2|6134|Black Frogs|Novi MIddle School|Novi|Michigan| |false|true|0
+2|6699|Tempest|Nova Classical Academy|St. Paul|Minnesota| |false|true|0
+2|7047|Mechanical Monkeys|Bloomfield Hills Middle School|Bloomfield Hills|Michigan| |false|true|0
+2|7123|Fellowship of the Loose Screws|Community Team|Sioux Falls|South Dakota| |false|true|0
+2|7129|Robo Raiders|TLC|Lebanon|Illinois| |false|true|0
+2|7236|Recharged Green|PEACE Home School Group|Pella|Iowa| |false|true|0
+2|7261|Omega Robotics|North High School|Sioux City|Iowa| |false|true|0
+2|7351|Dynamic Signals|Community Team (Sponsored by UL)|Gurnee|Illinois| |false|true|0
+2|8393|The Giant Diencephalic BrainSTEM Robotics Team|BrainSTEM Learning|Baden|Pennsylvania| |false|true|0
+2|8579|Classical Engineers|Bedford Junior High School|Temperance|Michigan| |false|true|0
+2|8581|Aedificatores|KSS Robotics|Kent|Ohio| |false|true|0
+2|8680|Kraken Pinion|Homestead High School|Mequon|Wisconsin| |false|true|0
+2|8686|Height Differential|Neighborhood Team|Shoreview|Minnesota| |false|true|0
+2|9052|Recharged Orange|PEACE Home School Group|Pella|Iowa| |false|true|0
+2|9473|Crocobots|Center?Stanton High School|Center|North Dakota| |false|true|0
+2|9862|CTRL+ALT+DESTROY|Griffith High School|Griffith|Indiana| |false|true|0
+2|10091|N.Y.A.N. Robotics - Not Your Average Nerds|NYAN|Mundelein|Illinois| |false|true|0
+2|10237|US Robotics|University School|Cleveland|Ohio| |false|true|0
+2|10255|RoboDux|Creekside Middle School|Zeeland|Michigan| |false|true|0
+2|10273|Cat in the Hat Comes Back|Sherburne Country 4H|Otsego|Minnesota| |false|true|0
+2|10538|Team KILT|Highlander Way Middle School|Howell|Michigan| |false|true|0
+2|11301|Mustang Gear Gang|Maranatha Christian Academy|Brooklyn Park|Minnesota| |false|true|0
+2|11316|Weapons of Mass Construction|Warren County Robotics|Indianola|Iowa| |false|true|0
+2|11360|Space Unicorns|Bloomfield Hills Middle School|Bloomfield Hills|Michigan| |false|true|0
+2|11691|Scripps Dragons|Scripps Middle School|Lake Orion|Michigan| |false|true|0
+2|12783|RoboWarriors|Norwalk RoboWarriors|Norwalk|Iowa| |false|true|0
+2|13034|Whitefield Rocks Robotics|Whitefield Academy|Louisville|Kentucky| |false|true|0
+2|13193|Robotics Club|Cary Grove High School|Cary|Illinois| |false|true|0
+2|13206|Wave Droids|Waverly Shell?Rock High School|Waverly|Iowa| |false|true|0
+2|13222|Green Mustaches|Hillside Middle School|Northville|Michigan| |false|true|0
+2|13917|Hillside Robotics|Hillside Middle School|Kalamazoo|Michigan| |false|true|0

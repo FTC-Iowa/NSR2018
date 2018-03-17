@@ -1,0 +1,72 @@
+11172018_SUPERREGIONAL_North Super Regional|3507|RoboTheosis|Francis Parker School|Chicago|Illinois| |508|2217|12
+11172018_SUPERREGIONAL_North Super Regional|3763|Piece of Cake|Edina Public Schools|Edina|Minnesota| |476|2269|12
+11172018_SUPERREGIONAL_North Super Regional|5040|Nuts & Bolts|Loveland High School|Loveland|Ohio| |598|2262|12
+11172018_SUPERREGIONAL_North Super Regional|5140|WACO Aerobotics|WACO Historical Society|Troy|Ohio| |523|2137|10
+11172018_SUPERREGIONAL_North Super Regional|5975|CYBOTS|Denver Community Schools|Denver|Iowa| |509|2353|10
+11172018_SUPERREGIONAL_North Super Regional|6287|Vertigo|Highland Park High School|Highland Park|Illinois| |453|2441|12
+11172018_SUPERREGIONAL_North Super Regional|6596|Robotic Rams|Riverdale High School|Port Byron|Illinois| |409|2296|4
+11172018_SUPERREGIONAL_North Super Regional|6931|The Substantial Monocephalic BrainSTEM Robotics Team|BrainSTEM Learning|Baden|Pennsylvania| |449|2388|8
+11172018_SUPERREGIONAL_North Super Regional|7023|HexaSonics|Allendale Middle School|Allendale|Michigan| |390|2665|2
+11172018_SUPERREGIONAL_North Super Regional|7048|Purple Protons|Bloomfield Hills Middle School|Bloomfield Hills|Michigan| |497|1951|7
+11172018_SUPERREGIONAL_North Super Regional|7190|Green Girls Robotics|Anthem|Lakeville|Minnesota| |395|2072|4
+11172018_SUPERREGIONAL_North Super Regional|7693|TECHNADOS|Clarkston Junior High School|Clarkston|Michigan| |463|2403|8
+11172018_SUPERREGIONAL_North Super Regional|8133|Bionic Sailors|Our Lady of the Lakes School|Waterford|Michigan| |598|2208|12
+11172018_SUPERREGIONAL_North Super Regional|8533|CSPA Miners|Charyl Stockwell Academy|Brighton|Michigan| |376|2483|6
+11172018_SUPERREGIONAL_North Super Regional|8620|Wormgear Warriors|Metro Area Robotics Association (MARS)|Edwardsville|Illinois| |481|2152|6
+11172018_SUPERREGIONAL_North Super Regional|8646|Team KAOS|Parker Middle School|Howell|Michigan| |429|1884|12
+11172018_SUPERREGIONAL_North Super Regional|8711|The Gas Attendants|ETHOS Science Center|Elkhart|Indiana| |467|2446|8
+11172018_SUPERREGIONAL_North Super Regional|8749|Robota White|Union Community School District|La Porte City|Iowa| |288|1640|4
+11172018_SUPERREGIONAL_North Super Regional|8808|Ponytail Posse|Ponytail Posse|Saint Paul|Minnesota| |390|2371|8
+11172018_SUPERREGIONAL_North Super Regional|8813|The Winter Soldiers|Quad City Engineering & Science Council|Bettendorf|Iowa| |349|1921|8
+11172018_SUPERREGIONAL_North Super Regional|8817|Fruit Salad|Crystal Lake Robotics|Crystal Lake|Illinois| |509|2467|12
+11172018_SUPERREGIONAL_North Super Regional|9205|Iron Maidens|Apple Valley High School|Apple Valley|Minnesota| |449|1923|6
+11172018_SUPERREGIONAL_North Super Regional|9890|RUBIES|RUBIES|Minneapolis|Minnesota| |310|1751|6
+11172018_SUPERREGIONAL_North Super Regional|9956|The Knack|Lake Country School/Arrowhead|Hartland|Wisconsin| |459|2267|10
+11172018_SUPERREGIONAL_North Super Regional|9968|CrossFire|Valley Lutheran School|Cedar Falls|Iowa| |421|2346|10
+11172018_SUPERREGIONAL_North Super Regional|9978|Avengers Tech|4?H Robotics Club|Sergeant Bluff|Iowa| |410|2481|12
+11172018_SUPERREGIONAL_North Super Regional|10309|TechnoHuskies|Jefferson Middle School|Midland|Michigan| |429|2547|9
+11172018_SUPERREGIONAL_North Super Regional|10435|Circuit Breakers|Timberline School|Waukee|Iowa| |568|2535|14
+11172018_SUPERREGIONAL_North Super Regional|11190|Mecha Dojo Robotics|MG Products|Eden Prairie|Minnesota| |453|2163|10
+11172018_SUPERREGIONAL_North Super Regional|11872|Visible Spectrum|Lakeville North High School|Lakeville|Minnesota| |345|1837|6
+11172018_SUPERREGIONAL_North Super Regional|12231|Warrior Tech|North Miami Schools|Denver|Indiana| |523|2243|16
+11172018_SUPERREGIONAL_North Super Regional|12528|NextGen|High Tech Kids|Minneapolis|Minnesota| |568|2015|16
+11172018_SUPERREGIONAL_North Super Regional|12549|Robo Rebels|Larson Middle School|Troy|Michigan| |375|1995|6
+11172018_SUPERREGIONAL_North Super Regional|12682|The Golden Ratio|The Golden Ratio|Cary|Illinois| |463|2329|9
+11172018_SUPERREGIONAL_North Super Regional|12835|Pixelated|GEARS, Inc.|Granger|Indiana| |344|2372|10
+11172018_SUPERREGIONAL_North Super Regional|13178|Roncalli Robo-Cavs|Roncalli Catholic High School|Aberdeen|South Dakota| |336|2406|7
+11172018_SUPERREGIONAL_North Super Regional|4177|Finger Tightans|Highland High School|Riverside|Iowa| |0|0|0
+11172018_SUPERREGIONAL_North Super Regional|5037|got robot?|got robot?|Elgin|Illinois| |0|0|0
+11172018_SUPERREGIONAL_North Super Regional|5386|Fabricators|Freeland Middle/High School|Freeland|Michigan| |0|0|0
+11172018_SUPERREGIONAL_North Super Regional|5957|Sonic Eagles|Hartland M.S. at Ore Creek|Hartland|Michigan| |0|0|0
+11172018_SUPERREGIONAL_North Super Regional|6133|The "NUTS!"|Walnut Hills High School|Cincinnati|Ohio| |0|0|0
+11172018_SUPERREGIONAL_North Super Regional|6134|Black Frogs|Novi MIddle School|Novi|Michigan| |0|0|0
+11172018_SUPERREGIONAL_North Super Regional|6699|Tempest|Nova Classical Academy|St. Paul|Minnesota| |0|0|0
+11172018_SUPERREGIONAL_North Super Regional|7047|Mechanical Monkeys|Bloomfield Hills Middle School|Bloomfield Hills|Michigan| |0|0|0
+11172018_SUPERREGIONAL_North Super Regional|7123|Fellowship of the Loose Screws|Community Team|Sioux Falls|South Dakota| |0|0|0
+11172018_SUPERREGIONAL_North Super Regional|7129|Robo Raiders|TLC|Lebanon|Illinois| |0|0|0
+11172018_SUPERREGIONAL_North Super Regional|7236|Recharged Green|PEACE Home School Group|Pella|Iowa| |0|0|0
+11172018_SUPERREGIONAL_North Super Regional|7261|Omega Robotics|North High School|Sioux City|Iowa| |0|0|0
+11172018_SUPERREGIONAL_North Super Regional|7351|Dynamic Signals|Community Team (Sponsored by UL)|Gurnee|Illinois| |0|0|0
+11172018_SUPERREGIONAL_North Super Regional|8393|The Giant Diencephalic BrainSTEM Robotics Team|BrainSTEM Learning|Baden|Pennsylvania| |0|0|0
+11172018_SUPERREGIONAL_North Super Regional|8579|Classical Engineers|Bedford Junior High School|Temperance|Michigan| |0|0|0
+11172018_SUPERREGIONAL_North Super Regional|8581|Aedificatores|KSS Robotics|Kent|Ohio| |0|0|0
+11172018_SUPERREGIONAL_North Super Regional|8680|Kraken Pinion|Homestead High School|Mequon|Wisconsin| |0|0|0
+11172018_SUPERREGIONAL_North Super Regional|8686|Height Differential|Neighborhood Team|Shoreview|Minnesota| |0|0|0
+11172018_SUPERREGIONAL_North Super Regional|9052|Recharged Orange|PEACE Home School Group|Pella|Iowa| |0|0|0
+11172018_SUPERREGIONAL_North Super Regional|9473|Crocobots|Center?Stanton High School|Center|North Dakota| |0|0|0
+11172018_SUPERREGIONAL_North Super Regional|9862|CTRL+ALT+DESTROY|Griffith High School|Griffith|Indiana| |0|0|0
+11172018_SUPERREGIONAL_North Super Regional|10091|N.Y.A.N. Robotics - Not Your Average Nerds|NYAN|Mundelein|Illinois| |0|0|0
+11172018_SUPERREGIONAL_North Super Regional|10237|US Robotics|University School|Cleveland|Ohio| |0|0|0
+11172018_SUPERREGIONAL_North Super Regional|10255|RoboDux|Creekside Middle School|Zeeland|Michigan| |0|0|0
+11172018_SUPERREGIONAL_North Super Regional|10273|Cat in the Hat Comes Back|Sherburne Country 4H|Otsego|Minnesota| |0|0|0
+11172018_SUPERREGIONAL_North Super Regional|10538|Team KILT|Highlander Way Middle School|Howell|Michigan| |0|0|0
+11172018_SUPERREGIONAL_North Super Regional|11301|Mustang Gear Gang|Maranatha Christian Academy|Brooklyn Park|Minnesota| |0|0|0
+11172018_SUPERREGIONAL_North Super Regional|11316|Weapons of Mass Construction|Warren County Robotics|Indianola|Iowa| |0|0|0
+11172018_SUPERREGIONAL_North Super Regional|11360|Space Unicorns|Bloomfield Hills Middle School|Bloomfield Hills|Michigan| |0|0|0
+11172018_SUPERREGIONAL_North Super Regional|11691|Scripps Dragons|Scripps Middle School|Lake Orion|Michigan| |0|0|0
+11172018_SUPERREGIONAL_North Super Regional|12783|RoboWarriors|Norwalk RoboWarriors|Norwalk|Iowa| |0|0|0
+11172018_SUPERREGIONAL_North Super Regional|13034|Whitefield Rocks Robotics|Whitefield Academy|Louisville|Kentucky| |0|0|0
+11172018_SUPERREGIONAL_North Super Regional|13193|Robotics Club|Cary Grove High School|Cary|Illinois| |0|0|0
+11172018_SUPERREGIONAL_North Super Regional|13206|Wave Droids|Waverly Shell?Rock High School|Waverly|Iowa| |0|0|0
+11172018_SUPERREGIONAL_North Super Regional|13222|Green Mustaches|Hillside Middle School|Northville|Michigan| |0|0|0
+11172018_SUPERREGIONAL_North Super Regional|13917|Hillside Robotics|Hillside Middle School|Kalamazoo|Michigan| |0|0|0

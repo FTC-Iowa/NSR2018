@@ -888,3 +888,49 @@
 13:54:32:266 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
 13:54:32:266 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
 13:54:32:266 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+14:10:36:327 FINEST	FTCScoringView.saveDivisionWinners	Saving division winners to C:\Users\FTC_IOWA\Desktop\NSR2018
+14:10:36:327 FINEST	AwardController.setAward	Adding award Ortberg Winning Alliance
+14:10:36:327 INFO	AwardController.save	Saved Award information
+14:10:36:327 FINEST	AwardController.setAward	Adding award Ortberg Finalist Alliance
+14:10:36:327 INFO	AwardController.save	Saved Award information
+14:11:18:893 FINEST	FTCScoringApp.archiveData	Creating Archive Directory
+14:11:18:909 FINEST	FTCScoringApp.archiveData	Creating Archived reports for this event
+14:11:18:909 INFO	ReportGenerator.generateTeaminformationReport	Generating team information report
+14:11:18:924 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+14:11:18:924 INFO	ReportGenerator.generateEliminiationLadderReport	Generating Elimination Ladder report
+14:11:18:924 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+14:11:18:942 INFO	ReportGenerator.generateAwardsReport	Generating Awards report
+14:11:18:942 INFO	ReportGenerator.generateAdvancementReport	Generating teams that qualify for advancement
+14:11:18:973 FINEST	FTCScoringApp.archiveData	Creating Data file for FIRST system
+14:11:18:973 INFO	DivisionController.save	Saved Division information to divisions.txt
+14:11:18:973 INFO	TeamController.save	Saved team information
+14:11:18:989 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\NSR2018\FTC_Data_North_Super_Regional_Ortberg\matches.txt
+14:11:18:989 INFO	AwardController.save	Saved Award information
+14:11:18:989 FINEST	FTCScoringApp.acrhiveData	Saving log files to archive
+14:11:19:036 FINEST	FTCScoringApp.copyDirectory	Error copying file
+14:11:19:036 INFO	FTCScoringApp.createArchiveZip	Writing data to C:\Users\FTC_IOWA\Desktop\NSR2018\FTC_Data_North_Super_Regional_Ortberg.zip
+14:11:19:082 FINEST	FTCScoringApp.addToZip	Adding FTC_Data_North_Super_Regional_Ortberg\AdvancementReport_all.html
+14:11:19:098 FINEST	FTCScoringApp.addToZip	Adding FTC_Data_North_Super_Regional_Ortberg\awards.txt
+14:11:19:098 FINEST	FTCScoringApp.addToZip	Adding FTC_Data_North_Super_Regional_Ortberg\Awards_all.html
+14:11:19:098 FINEST	FTCScoringApp.addToZip	Adding FTC_Data_North_Super_Regional_Ortberg\divisions.txt
+14:11:19:098 FINEST	FTCScoringApp.addToZip	Adding FTC_Data_North_Super_Regional_Ortberg\ElimLadder_North_Super_Regional_Ortberg.html
+14:11:19:098 FINEST	FTCScoringApp.addToZip	Adding FTC_Data_North_Super_Regional_Ortberg\event_data.txt
+14:11:19:098 FINEST	FTCScoringApp.addToZip	Adding FTC_Data_North_Super_Regional_Ortberg\log\FTCScoring_log_2018_Mar_06_20_28_22.txt
+14:11:19:098 FINEST	FTCScoringApp.addToZip	Adding FTC_Data_North_Super_Regional_Ortberg\log\FTCScoring_log_2018_Mar_06_21_22_29.txt
+14:11:19:098 FINEST	FTCScoringApp.addToZip	Adding FTC_Data_North_Super_Regional_Ortberg\log\FTCScoring_log_2018_Mar_06_21_39_40.txt
+14:11:19:098 FINEST	FTCScoringApp.addToZip	Adding FTC_Data_North_Super_Regional_Ortberg\log\FTCScoring_log_2018_Mar_14_17_45_37.txt
+14:11:19:098 FINEST	FTCScoringApp.addToZip	Adding FTC_Data_North_Super_Regional_Ortberg\log\FTCScoring_log_2018_Mar_14_17_52_37.txt
+14:11:19:098 FINEST	FTCScoringApp.addToZip	Adding FTC_Data_North_Super_Regional_Ortberg\log\FTCScoring_log_2018_Mar_15_08_45_20.txt
+14:11:19:114 FINEST	FTCScoringApp.addToZip	Adding FTC_Data_North_Super_Regional_Ortberg\log\FTCScoring_log_2018_Mar_15_08_45_20.txt.lck
+14:11:19:114 FINEST	FTCScoringApp.addToZip	Adding FTC_Data_North_Super_Regional_Ortberg\matches.txt
+14:11:19:114 FINEST	FTCScoringApp.addToZip	Adding FTC_Data_North_Super_Regional_Ortberg\MatchResults_North_Super_Regional_Ortberg.html
+14:11:19:114 FINEST	FTCScoringApp.addToZip	Adding FTC_Data_North_Super_Regional_Ortberg\match_data.txt
+14:11:19:114 FINEST	FTCScoringApp.addToZip	Adding FTC_Data_North_Super_Regional_Ortberg\Rankings_North_Super_Regional_Ortberg.html
+14:11:19:114 FINEST	FTCScoringApp.addToZip	Adding FTC_Data_North_Super_Regional_Ortberg\TeamInfo_North_Super_Regional_Ortberg.html
+14:11:19:114 FINEST	FTCScoringApp.addToZip	Adding FTC_Data_North_Super_Regional_Ortberg\teams.txt
+14:11:19:114 FINEST	FTCScoringApp.addToZip	Adding FTC_Data_North_Super_Regional_Ortberg\team_data.txt
+14:11:21:844 FINEST	FTCScoringApp.shutdown	Shutting down the Scoring System
+14:11:22:232 INFO	DisplayPanel.stopMessageManager	Stopping message interface to displays
+14:11:22:232 FINEST	FTCProperties.store	Saving Properties File
+14:11:22:232 INFO	MessageManager.<Shutdown hook>	Aborting Thread
+----- Log Terminated at 14:11:22:232 -----
