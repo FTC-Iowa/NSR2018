@@ -728,3 +728,25 @@
 09:42:04:174 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
 09:42:04:189 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
 09:42:04:189 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+10:41:32:454 INFO	AllianceSelectionPanel.acceptAction	Team 5040 accepted selection
+10:42:04:451 INFO	AllianceSelectionPanel.acceptAction	Team 5975 accepted selection
+10:42:44:318 INFO	AllianceSelectionPanel.acceptAction	Team 3507 accepted selection
+10:43:22:719 INFO	AllianceSelectionPanel.acceptAction	Team 6287 accepted selection
+10:44:22:753 INFO	AllianceSelectionPanel.acceptAction	Team 7693 accepted selection
+10:44:56:086 INFO	AllianceSelectionPanel.acceptAction	Team 8711 accepted selection
+10:45:34:811 INFO	AllianceSelectionPanel.acceptAction	Team 9956 accepted selection
+10:46:19:736 INFO	AllianceSelectionPanel.acceptAction	Team 8646 accepted selection
+10:46:47:248 INFO	AllianceSelectionPanel.generateAction	Generating initial elimination matches and saving alliances
+10:46:47:264 INFO	AllianceController.save	Saved Alliance information
+10:46:47:264 INFO	MatchController.clearMatches	Removing existing match data for Type: FINAL
+10:46:47:264 INFO	MatchController.save	Saving real matches to disk
+10:46:47:264 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\NSR2018\matches.txt
+10:46:47:311 FINEST	FTCProperties.store	Saving Properties File
+10:46:47:311 INFO	MatchController.clearMatches	Removing existing match data for Type: SEMIFINAL
+10:46:47:311 INFO	MatchController.save	Saving real matches to disk
+10:46:47:311 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\NSR2018\matches.txt
+10:46:47:342 FINEST	FTCProperties.store	Saving Properties File
+10:46:47:358 INFO	MatchController.save	Saving real matches to disk
+10:46:47:358 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\NSR2018\matches.txt
+10:46:47:389 FINEST	FTCProperties.store	Saving Properties File
+10:46:47:389 FINEST	MatchController.createEliminationTracker	Match controller contains 83 matches
