@@ -158,3 +158,13 @@
 15:23:08:889 INFO	AwardController.save	Saved Award information
 15:23:35:644 INFO	ReportGenerator.generateAdvancementReport	Generating teams that qualify for advancement
 15:23:35:674 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
+15:33:38:879 FINEST	AwardController.setAward	Adding award Rockwell Collins Innovate Award
+15:33:38:879 INFO	AwardController.save	Saved Award information
+15:33:44:522 INFO	ReportGenerator.generateAdvancementReport	Generating teams that qualify for advancement
+15:33:44:532 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
+15:36:39:416 FINEST	AwardController.setAward	Adding award Motivate Award
+15:36:39:426 INFO	AwardController.save	Saved Award information
+15:36:41:402 INFO	ReportGenerator.generateAdvancementReport	Generating teams that qualify for advancement
+15:36:41:402 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
+15:38:07:799 FINEST	AwardController.setAward	Adding award Motivate Award
+15:38:07:799 INFO	AwardController.save	Saved Award information
