@@ -1,0 +1,8 @@
+Event Name
+North Super Regional
+Event Type
+SUPERREGIONAL
+Using Multiple Divisions
+true
+Number|Name|Matches Per Team|Password
+2|Tinker|9|2|17|2018|Iowa

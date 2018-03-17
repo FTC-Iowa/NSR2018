@@ -886,3 +886,70 @@
 13:57:16:472 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
 13:57:16:487 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
 13:57:16:503 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+14:13:35:285 INFO	MatchPanel.saveAction	saving scores for match F-3:
+14:13:35:285 FINEST	MatchController.update	Looking for next elimination match.  Match F-3 was just updated
+14:13:35:285 FINEST	EliminationTracker.getNextMatch	Evaluating elimination ladder based on F-3
+14:13:35:285 FINEST	EliminationTracker.getNextMatch	found match, replacing it
+14:13:35:285 FINEST	EliminationTracker.getNextMatch	Red alliance has 1 wins
+14:13:35:285 FINEST	EliminationTracker.getNextMatch	Blue alliance has 2 wins
+14:13:35:285 FINEST	EliminationTracker.getNextMatch	Winner has been determined, advancing to next level in ladder
+14:13:35:285 FINEST	EliminationTracker.getNextMatch	Finals completed, event is finished, no more matches.
+14:13:35:285 FINEST	EliminationTracker.getNextMatch	Finals completed, Blue Won.
+14:13:35:285 FINEST	MatchController.update	Elimination tracker could not find additional matches
+14:13:35:285 FINEST	MatchController.update	Elimination tracker reporting that event is complete
+14:13:35:285 FINEST	AwardController.setAward	Adding award Tinker Winning Alliance
+14:13:35:285 INFO	AwardController.save	Saved Award information
+14:13:35:301 FINEST	AwardController.setAward	Adding award Tinker Finalist Alliance
+14:13:35:301 INFO	AwardController.save	Saved Award information
+14:13:35:441 INFO	MatchController.save	Saving real matches to disk
+14:13:35:457 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\NSR2018\matches.txt
+14:13:35:519 FINEST	FTCProperties.store	Saving Properties File
+14:13:35:519 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+14:13:35:535 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+14:13:35:535 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+14:15:19:582 FINEST	FTCScoringView.saveDivisionWinners	Saving division winners to C:\Users\FTC_IOWA\Desktop\NSR2018
+14:15:19:582 FINEST	AwardController.setAward	Adding award Tinker Winning Alliance
+14:15:19:582 INFO	AwardController.save	Saved Award information
+14:15:19:582 FINEST	AwardController.setAward	Adding award Tinker Finalist Alliance
+14:15:19:582 INFO	AwardController.save	Saved Award information
+14:15:34:376 FINEST	FTCScoringApp.archiveData	Creating Archive Directory
+14:15:34:376 FINEST	FTCScoringApp.archiveData	Creating Archived reports for this event
+14:15:34:376 INFO	ReportGenerator.generateTeaminformationReport	Generating team information report
+14:15:34:392 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+14:15:34:407 INFO	ReportGenerator.generateEliminiationLadderReport	Generating Elimination Ladder report
+14:15:34:407 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+14:15:34:423 INFO	ReportGenerator.generateAwardsReport	Generating Awards report
+14:15:34:439 INFO	ReportGenerator.generateAdvancementReport	Generating teams that qualify for advancement
+14:15:34:485 FINEST	FTCScoringApp.archiveData	Creating Data file for FIRST system
+14:15:34:501 INFO	DivisionController.save	Saved Division information to divisions.txt
+14:15:34:517 INFO	TeamController.save	Saved team information
+14:15:34:563 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\NSR2018\FTC_Data_North_Super_Regional_Tinker\matches.txt
+14:15:34:563 INFO	AwardController.save	Saved Award information
+14:15:34:563 FINEST	FTCScoringApp.acrhiveData	Saving log files to archive
+14:15:34:813 FINEST	FTCScoringApp.copyDirectory	Error copying file
+14:15:34:829 INFO	FTCScoringApp.createArchiveZip	Writing data to C:\Users\FTC_IOWA\Desktop\NSR2018\FTC_Data_North_Super_Regional_Tinker.zip
+14:15:34:860 FINEST	FTCScoringApp.addToZip	Adding FTC_Data_North_Super_Regional_Tinker\AdvancementReport_all.html
+14:15:34:891 FINEST	FTCScoringApp.addToZip	Adding FTC_Data_North_Super_Regional_Tinker\awards.txt
+14:15:34:891 FINEST	FTCScoringApp.addToZip	Adding FTC_Data_North_Super_Regional_Tinker\Awards_all.html
+14:15:34:907 FINEST	FTCScoringApp.addToZip	Adding FTC_Data_North_Super_Regional_Tinker\divisions.txt
+14:15:34:907 FINEST	FTCScoringApp.addToZip	Adding FTC_Data_North_Super_Regional_Tinker\ElimLadder_North_Super_Regional_Tinker.html
+14:15:34:907 FINEST	FTCScoringApp.addToZip	Adding FTC_Data_North_Super_Regional_Tinker\event_data.txt
+14:15:34:907 FINEST	FTCScoringApp.addToZip	Adding FTC_Data_North_Super_Regional_Tinker\log\FTCScoring_log_2018_Mar_06_20_28_22.txt
+14:15:34:907 FINEST	FTCScoringApp.addToZip	Adding FTC_Data_North_Super_Regional_Tinker\log\FTCScoring_log_2018_Mar_06_21_27_53.txt
+14:15:34:907 FINEST	FTCScoringApp.addToZip	Adding FTC_Data_North_Super_Regional_Tinker\log\FTCScoring_log_2018_Mar_06_22_02_37.txt
+14:15:34:907 FINEST	FTCScoringApp.addToZip	Adding FTC_Data_North_Super_Regional_Tinker\log\FTCScoring_log_2018_Mar_14_17_45_10.txt
+14:15:34:907 FINEST	FTCScoringApp.addToZip	Adding FTC_Data_North_Super_Regional_Tinker\log\FTCScoring_log_2018_Mar_14_17_52_30.txt
+14:15:34:907 FINEST	FTCScoringApp.addToZip	Adding FTC_Data_North_Super_Regional_Tinker\log\FTCScoring_log_2018_Mar_15_08_45_50.txt
+14:15:34:907 FINEST	FTCScoringApp.addToZip	Adding FTC_Data_North_Super_Regional_Tinker\log\FTCScoring_log_2018_Mar_15_08_45_50.txt.lck
+14:15:34:907 FINEST	FTCScoringApp.addToZip	Adding FTC_Data_North_Super_Regional_Tinker\matches.txt
+14:15:34:907 FINEST	FTCScoringApp.addToZip	Adding FTC_Data_North_Super_Regional_Tinker\MatchResults_North_Super_Regional_Tinker.html
+14:15:34:907 FINEST	FTCScoringApp.addToZip	Adding FTC_Data_North_Super_Regional_Tinker\match_data.txt
+14:15:34:907 FINEST	FTCScoringApp.addToZip	Adding FTC_Data_North_Super_Regional_Tinker\Rankings_North_Super_Regional_Tinker.html
+14:15:34:907 FINEST	FTCScoringApp.addToZip	Adding FTC_Data_North_Super_Regional_Tinker\TeamInfo_North_Super_Regional_Tinker.html
+14:15:34:907 FINEST	FTCScoringApp.addToZip	Adding FTC_Data_North_Super_Regional_Tinker\teams.txt
+14:15:34:907 FINEST	FTCScoringApp.addToZip	Adding FTC_Data_North_Super_Regional_Tinker\team_data.txt
+14:15:37:224 FINEST	FTCScoringApp.shutdown	Shutting down the Scoring System
+14:15:37:803 INFO	DisplayPanel.stopMessageManager	Stopping message interface to displays
+14:15:37:803 FINEST	FTCProperties.store	Saving Properties File
+14:15:37:803 FINEST	DisplayPanel.<Shutdown Thread>	Shutting down display Related Threads
+----- Log Terminated at 14:15:37:803 -----
