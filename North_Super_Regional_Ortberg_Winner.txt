@@ -1,0 +1,46 @@
+Number|Name|Matches Per Team|Password
+1|Ortberg|9|2|17|2018|Iowa
+1|1|3|12231|5040|7693
+1|12231|Warrior Tech|North Miami Schools|Denver|Indiana| |false|true|0
+1|5040|Nuts & Bolts|Loveland High School|Loveland|Ohio| |false|true|0
+1|7693|TECHNADOS|Clarkston Junior High School|Clarkston|Michigan| |false|true|0
+Rankings
+1|12231
+2|12528
+3|10435
+4|9978
+5|8817
+6|6287
+7|3763
+8|5040
+9|3507
+10|8133
+11|8646
+12|12835
+13|5975
+14|9968
+15|9956
+16|11190
+17|5140
+18|10309
+19|12682
+20|8711
+21|7693
+22|6931
+23|8808
+24|8813
+25|13178
+26|7048
+27|8533
+28|8620
+29|12549
+30|9205
+31|11872
+32|9890
+33|6596
+34|7190
+35|8749
+36|7023
+Awards
+Ortberg Winning Alliance|3|false|false| | |true|1: 12231,5040,7693|12231|5040|7693
+Ortberg Finalist Alliance|3|false|false| | |true|3: 10435,3507,9956|10435|3507|9956
