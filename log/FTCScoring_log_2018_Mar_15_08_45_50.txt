@@ -871,3 +871,18 @@
 13:39:44:975 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
 13:39:44:990 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
 13:39:45:006 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+13:57:16:362 INFO	MatchPanel.saveAction	saving scores for match F-2:
+13:57:16:378 FINEST	MatchController.update	Looking for next elimination match.  Match F-2 was just updated
+13:57:16:378 FINEST	EliminationTracker.getNextMatch	Evaluating elimination ladder based on F-2
+13:57:16:378 FINEST	EliminationTracker.getNextMatch	found match, replacing it
+13:57:16:378 FINEST	EliminationTracker.getNextMatch	Red alliance has 1 wins
+13:57:16:378 FINEST	EliminationTracker.getNextMatch	Blue alliance has 1 wins
+13:57:16:378 FINEST	EliminationTracker.getNextMatch	Neither team has enough wins, generating next match
+13:57:16:378 FINEST	MatchController.update	Elimination tracker is adding: F-3
+13:57:16:378 FINEST	MatchController.update	Match is new, add it
+13:57:16:394 INFO	MatchController.save	Saving real matches to disk
+13:57:16:409 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\NSR2018\matches.txt
+13:57:16:472 FINEST	FTCProperties.store	Saving Properties File
+13:57:16:472 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+13:57:16:487 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+13:57:16:503 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
